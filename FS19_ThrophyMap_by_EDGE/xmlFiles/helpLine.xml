@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<helpLines>
+    <category title="$l10n_helpCategory_01">
+        <page title="$l10n_helpCategory_Eiersholt_0">
+            <item type="image" value="maps/models/Texture/helplineImage.png" imageUVs="0px 0px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_0"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_1"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_2"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_3"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_4"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_f1"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_f2"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_f3"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_1">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="image" value="maps/models/Texture/helplineImage2.png" imageUVs="0px 768px 1024px 256px"/>
+            <item type="image" value="maps/models/Texture/helplineImage.png" imageUVs="0px 512px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_f4"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_f5"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_2">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="image" value="maps/models/Texture/helplineImage.png" imageUVs="0px 256px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_f6"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_inclMods">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_5"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_6"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_7"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_8"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_9"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_10"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_11"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_12"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_13"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_14"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_15"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_16"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_17"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_18"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_19"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_20"/>
+        </page>
+    </category>
+    <category title="$l10n_helpCategory_Eiersholt_common">
+        <page title="$l10n_helpCategory_Eiersholt_additionalFruits">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_21"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_22"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_23"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_24"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_25"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_26"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_27"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_28"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_29"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_30"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_31"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_32"/>
+        </page>
+         <page title="$l10n_helpCategory_Eiersholt_places">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_33"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_34"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_35"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_36"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_37"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_38"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_39"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_40"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_41"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_42"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_43"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_44"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_45"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_46"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_47"/>
+        </page>
+         <page title="$l10n_helpCategory_Eiersholt_places1">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_48"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_49"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_50"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_51"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_52"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_53"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_54"/>
+        </page>
+    </category>
+    <category title="$l10n_helpCategory_Eiersholt_animals">
+        <page title="$l10n_helpCategory_Eiersholt_chicken">
+            <item type="image" value="maps/models/Texture/helplineImage.png" imageUVs="0px 768px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_55"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_56"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_57"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_58"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_cow">
+            <item type="image" value="maps/models/Texture/helplineImage1.png" imageUVs="0px 0px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_59"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_60"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_61"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_62"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_63"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_64"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_pig">
+            <item type="image" value="maps/models/Texture/helplineImage1.png" imageUVs="0px 256px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_65"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_66"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_67"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_68"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_69"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_70"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_71"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_horse">
+            <item type="image" value="maps/models/Texture/helplineImage1.png" imageUVs="0px 512px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_72"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_73"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_74"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_75"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_76"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_sheep">
+            <item type="image" value="maps/models/Texture/helplineImage1.png" imageUVs="0px 768px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_77"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_78"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_79"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_80"/>
+        </page>
+    </category>
+    <category title="$l10n_helpCategory_Eiersholt_store">
+         <page title="$l10n_helpCategory_Eiersholt_centerDepot">
+            <item type="image" value="maps/models/Texture/helplineImage2.png" imageUVs="0px 0px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_81"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_82"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_83"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_84"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_85"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_86"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_87"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_88"/>
+        </page>
+         <page title="$l10n_helpCategory_Eiersholt_slurry">
+            <item type="image" value="maps/models/Texture/helplineImage2.png" imageUVs="0px 256px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_89"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_90"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_PS"/>
+        </page>
+         <page title="$l10n_helpCategory_Eiersholt_workshop">
+            <item type="image" value="maps/models/Texture/helplineImage2.png" imageUVs="0px 512px 1024px 256px"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_91"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_92"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_93"/>
+        </page>
+    </category>
+    <category title="$l10n_helpCategory_Eiersholt_mods">
+        <page title="$l10n_helpCategory_Eiersholt_mod1">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_94"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_95"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_96"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_97"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_98"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_99"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_mod2">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_100"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_101"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_mod3">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_102"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_103"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_mod4">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_104"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_105"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_106"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_107"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_108"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_109"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_110"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_111"/>
+        </page>
+        <page title="$l10n_helpCategory_Eiersholt_mod5">
+            <item type="text" value="$l10n_helpText_Eiersholt_empty"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_112"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_113"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_114"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_115"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_116"/>
+            <item type="text" value="$l10n_helpText_Eiersholt_117"/>
+        </page>
+    </category>
+</helpLines>

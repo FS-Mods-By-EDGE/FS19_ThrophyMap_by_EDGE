@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<i3D name="materialHolder" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+  <Asset>
+    <Export program="GIANTS Editor 64bit" version="8.2.0"/>
+  </Asset>
+
+  <Files>
+    <File fileId="18" filename="../maps/models/Texture/treeBranches_diffuse.png"/>
+    <File fileId="12" filename="textures/autumn/MAPSZELEA.png"/>
+    <File fileId="8" filename="textures/autumn/d_fon_17.png"/>
+    <File fileId="4" filename="textures/autumn/shrub01_LOD.png"/>
+    <File fileId="1" filename="textures/autumn/shrub01_diffuse.png"/>
+    <File fileId="19" filename="textures/autumn/treeBranches_diffuse.png"/>
+    <File fileId="13" filename="textures/spring/MAPSZELES.png"/>
+    <File fileId="9" filename="textures/spring/d_fon_17.png"/>
+    <File fileId="5" filename="textures/spring/shrub01_LOD.png"/>
+    <File fileId="2" filename="textures/spring/shrub01_diffuse.png"/>
+    <File fileId="16" filename="textures/spring/treeBranches_diffuse.png"/>
+    <File fileId="14" filename="textures/summer/MAPSZELE.png"/>
+    <File fileId="10" filename="textures/summer/d_fon_2.png"/>
+    <File fileId="15" filename="textures/winter/MAPSZELEW.png"/>
+    <File fileId="11" filename="textures/winter/d_fon_17.png"/>
+    <File fileId="6" filename="textures/winter/shrub01_LOD.png"/>
+    <File fileId="3" filename="textures/winter/shrub01_diffuse.png"/>
+    <File fileId="20" filename="textures/winter/treeBranches_diffuse.png"/>
+    <File fileId="17" filename="$data/shaders/windShader.xml"/>
+  </Files>
+
+
+  <Materials>
+    <Material name="mapszellew1" materialId="5">
+      <Texture fileId="15"/>
+    </Material>
+    <Material name="bushes_mat" materialId="18" customShaderId="17">
+      <Texture fileId="19"/>
+      <CustomParameter name="directionAndFrequency" value="0.06 0 0 1.2"/>
+      <CustomParameter name="speed" value="1 0 0 0"/>
+    </Material>
+    <Material name="wanda1" materialId="21">
+      <Texture fileId="8"/>
+    </Material>
+    <Material name="mapszellea1" materialId="6">
+      <Texture fileId="12"/>
+    </Material>
+    <Material name="wandw1" materialId="10">
+      <Texture fileId="11"/>
+    </Material>
+    <Material name="hedgeslod" materialId="13">
+      <Texture fileId="5"/>
+    </Material>
+    <Material name="bushes_mat" materialId="14" customShaderId="17">
+      <Texture fileId="18"/>
+      <CustomParameter name="directionAndFrequency" value="0.06 0 0 1.2"/>
+      <CustomParameter name="speed" value="1 0 0 0"/>
+    </Material>
+    <Material name="hedgewlod" materialId="4">
+      <Texture fileId="6"/>
+    </Material>
+    <Material name="mapszelles1" materialId="7">
+      <Texture fileId="13"/>
+    </Material>
+    <Material name="hedgealod" materialId="9">
+      <Texture fileId="4"/>
+    </Material>
+    <Material name="wands1" materialId="16">
+      <Texture fileId="9"/>
+    </Material>
+    <Material name="material_holder_mat" materialId="22" diffuseColor="0 0 0 1">
+    </Material>
+    <Material name="hedgew1" materialId="11">
+      <Texture fileId="3"/>
+    </Material>
+    <Material name="mapszellesu1" materialId="12">
+      <Texture fileId="14"/>
+    </Material>
+    <Material name="hedges1" materialId="20">
+      <Texture fileId="2"/>
+    </Material>
+    <Material name="bushes_mat" materialId="19" customShaderId="17">
+      <Texture fileId="20"/>
+      <CustomParameter name="directionAndFrequency" value="0.06 0 0 1.2"/>
+      <CustomParameter name="speed" value="1 0 0 0"/>
+    </Material>
+    <Material name="wandsu1" materialId="17">
+      <Texture fileId="10"/>
+    </Material>
+    <Material name="hedgea1" materialId="8">
+      <Texture fileId="1"/>
+    </Material>
+    <Material name="bushes_mat" materialId="15" customShaderId="17">
+      <Texture fileId="16"/>
+      <CustomParameter name="directionAndFrequency" value="0.06 0 0 1.2"/>
+      <CustomParameter name="speed" value="1 0 0 0"/>
+    </Material>
+  </Materials>
+
+
+  <Shapes externalShapesFile="seasonsMaterialHolder.i3d.shapes">
+  </Shapes>
+
+
+  <Dynamics>
+  </Dynamics>
+
+  <Scene>
+    <Shape shapeId="1" name="hedgea1" visibility="false" nodeId="25" materialIds="8" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="hedges1" visibility="false" nodeId="26" materialIds="20" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="hedgew1" visibility="false" nodeId="27" materialIds="11" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="hedgealod" visibility="false" nodeId="28" materialIds="9" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="hedgeslod" visibility="false" nodeId="29" materialIds="13" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="hedgewlod" visibility="false" nodeId="30" materialIds="4" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="cache_material_holder" visibility="false" nodeId="31" materialIds="22" distanceBlending="false"/>
+    <Shape shapeId="1" name="wanda1" visibility="false" nodeId="32" materialIds="21" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="wands1" visibility="false" nodeId="33" materialIds="16" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="wandsu1" visibility="false" nodeId="34" materialIds="17" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="wandw1" visibility="false" nodeId="35" materialIds="10" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="mapszellea1" visibility="false" nodeId="36" materialIds="6" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="mapszelles1" visibility="false" nodeId="37" materialIds="7" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="mapszellesu1" visibility="false" nodeId="38" materialIds="12" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="mapszellew1" visibility="false" nodeId="39" materialIds="5" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="bushes_spring" visibility="false" nodeId="40" materialIds="15" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="bushes_summer" visibility="false" nodeId="41" materialIds="14" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="bushes_autumn" visibility="false" nodeId="42" materialIds="18" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+    <Shape shapeId="1" name="bushes_winter" visibility="false" nodeId="43" materialIds="19" castsShadows="true" receiveShadows="true" distanceBlending="false"/>
+  </Scene>
+
+</i3D>

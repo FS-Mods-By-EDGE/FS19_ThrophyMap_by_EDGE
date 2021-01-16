@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<map width="4096" height="4096" imageFilename="maps/hud/throphyMap_pda_map_H.png">
+    <filename>maps/throphyMap.i3d</filename>
+    <shop filename="maps/store/ui/shop.xml"/>
+    <colorGrading filename="xmlFiles/Frontier_Lighting.xml"/>
+    <storeItems filename="$data/maps/mapDE_storeItems.xml"/>
+    <sounds filename="xmlFiles/sounds.xml"/>
+    <environment filename="xmlFiles/environment.xml"/>
+    <wildlife filename="$dataS/character/wildlifeSpawner.xml"/>
+    <helpline filename="xmlFiles/helpLine.xml"/>
+    <gameplayHints filename="$dataS/gameplayHints.xml"/>
+    <husbandryAnimals filename="$dataS/character/husbandryAnimals.xml"/>
+    <animalNames filename="$dataS/character/animalNames.xml"/>
+    <husbandryFood filename="xmlFiles/husbandryFoodDefinition.xml"/>
+    <missionVehicles filename="$dataS/missionVehicles.xml"/>
+    <fillTypes filename="xmlFiles/fillTypes.xml"/>
+    <fruitTypes filename="xmlFiles/fruitTypes.xml"/>
+    <sprayTypes filename="xmlFiles/sprayTypes.xml"/>
+    <baleTypes filename="xmlFiles/baleTypes.xml"/>
+    <densityMapHeightTypes filename="xmlFiles/densityMapHeightTypes.xml"/>
+    <npcs filename="xmlFiles/throphyMapNpcs.xml"/>
+    <farmlands filename="xmlFiles/throphyMap_farmlands.xml"/>
+    <vertexBufferMemoryUsage>0</vertexBufferMemoryUsage>
+    <indexBufferMemoryUsage>0</indexBufferMemoryUsage>
+    <textureMemoryUsage>0</textureMemoryUsage>
+    <culling xzOffset="100"/>
+    <densityMap revision="1"/>
+    <terrainLodTexture revision="1"/>
+    <splitShapes revision="1"/>
+    <tipCollision revision="1"/>
+    <hotspots>
+    <!-- Animals - Green text -->
+        <hotspot name="Sheep meadow"     fullName="$l10n_animals_sheepPasture"   imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="538 23 240 205"  textColor="0.277 0.598 0.25 1"     xMapPos="1619"  zMapPos="-1305" blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Horse stable"     fullName="$l10n_animals_horseStable"    imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="25 280 240 215"  textColor="0.277 0.598 0.25 1"     xMapPos="635"   zMapPos="-1228" blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Cow stable"       fullName="$l10n_animals_cowPasture"     imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="8 23 240 205"    textColor="0.277 0.598 0.25 1"     xMapPos="825"   zMapPos="-575"  blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Pig stable"       fullName="$l10n_animals_pigPasture"     imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="284 23 240 205"  textColor="0.277 0.598 0.25 1"     xMapPos="989"   zMapPos="-504"  blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Chicken coop"     fullName="$l10n_animals_chickenCoop"    imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="792 23 240 205"  textColor="0.277 0.598 0.25 1"     xMapPos="968"   zMapPos="-646"  blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+    <!-- Buy stations / Storage - White text -->
+        <hotspot name="Vehicle dealer"   fullName="$l10n_map_shop"               imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="538 264 240 240"                                    xMapPos="-68"   zMapPos="129"   blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Lime station"     fullName="$l10n_hotSpot_limeStation"    imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="790 264 240 240"                                    xMapPos="-1961" zMapPos="-1646" blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Gas station"      fullName="$l10n_station_gasStation"     imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="284 280 240 205"                                    xMapPos="-596"  zMapPos="985"   blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Center Depot"     fullName="$l10n_hotSpot_centerDepot"    imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="280 500 240 240"                                    xMapPos="-172"  zMapPos="-145"  blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Slurry storage"   fullName="$l10n_hotSpot_slurryStorage"  imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="772 500 240 245"                                    xMapPos="-44"   zMapPos="15"    blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Animal dealer"    fullName="$l10n_hotSpot_animalShop"     imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="284 280 240 205"                                    xMapPos="-574"  zMapPos="817"   blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+    <!-- Sell stations - Yellow text -->
+        <hotspot name="Gardencenter"     fullName="$l10n_hotSpot_farmersMarket"  imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="28 538 205 205"  textColor="0.9559 0.5647 0.0423 1" xMapPos="-796"  zMapPos="-1705" blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Bga"              fullName="$l10n_hotSpot_biogasPlant"    imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="538 500 240 240" textColor="0.9559 0.5647 0.0423 1" xMapPos="-1078" zMapPos="-1100" blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Dairy"            fullName="$l10n_hotSpot_dairy"          imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="28 770 190 240"  textColor="0.9559 0.5647 0.0423 1" xMapPos="747"   zMapPos="1517"  blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Water mill"       fullName="$l10n_hotSpot_watermill"      imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="270 770 240 240" textColor="0.9559 0.5647 0.0423 1" xMapPos="-647"  zMapPos="279"   blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Grain mill"       fullName="$l10n_hotSpot_grainmill"      imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="540 770 240 240" textColor="0.9559 0.5647 0.0423 1" xMapPos="133"   zMapPos="-1444" blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Campsite"         fullName="$l10n_hotSpot_campsite"       imageFilename="maps/hud/mapHotspots_1024.dds"  imageUVs="800 800 205 205" textColor="0.9559 0.5647 0.0423 1" xMapPos="3"     zMapPos="478"   blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Brewery"          fullName="$l10n_hotSpot_brewery"        imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="8 23 240 205"    textColor="0.9559 0.5647 0.0423 1" xMapPos="983"   zMapPos="-739"  blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Fodder shop"      fullName="$l10n_hotSpot_fodderShop"     imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="538 23 240 205"  textColor="0.9559 0.5647 0.0423 1" xMapPos="-1324" zMapPos="102"   blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Sawmill"          fullName="$l10n_hotSpot_sawmill"        imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="25 280 240 215"  textColor="0.9559 0.5647 0.0423 1" xMapPos="-1050" zMapPos="635"   blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Builders Martket" fullName="$l10n_hotSpot_toom"           imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="792 23 205 205"  textColor="0.9559 0.5647 0.0423 1" xMapPos="-926"  zMapPos="535"   blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Raiffeisen"       fullName="$l10n_hotSpot_Raiffeisen"     imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="538 264 240 240" textColor="0.9559 0.5647 0.0423 1" xMapPos="-599"  zMapPos="883"   blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="McCain"           fullName="$l10n_hotSpot_mcCain"         imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="790 264 240 240" textColor="0.9559 0.5647 0.0423 1" xMapPos="-410"  zMapPos="875"   blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Supermarket"      fullName="$l10n_hotSpot_supermarket"    imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="28 538 205 205"  textColor="0.9559 0.5647 0.0423 1" xMapPos="740"   zMapPos="1231"  blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Composting Plant" fullName="$l10n_hotSpot_compost"        imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="280 500 240 240" textColor="0.9559 0.5647 0.0423 1" xMapPos="1105"  zMapPos="1282"  blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="South Sugar"      fullName="$l10n_hotSpot_sugar"          imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="538 500 240 240" textColor="0.9559 0.5647 0.0423 1" xMapPos="824"   zMapPos="1387"  blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+        <hotspot name="Heating plant"    fullName="$l10n_hotSpot_BioMassHeating" imageFilename="maps/hud/mapHotspots2_1024.dds" imageUVs="772 500 240 245" textColor="0.9559 0.5647 0.0423 1" xMapPos="-1207" zMapPos="-1122" blinking="false" persistent="false" showName="true"  hidable="true" renderLast="false" category="CATEGORY_TRIGGERS"/>
+    </hotspots>
+    <additionalFiles>
+        <additionalFile filename="$data/shared/materialHolders/tensionBeltMaterialHolder.i3d"/>
+        <additionalFile filename="$data/shared/materialHolders/tireTrackMaterialHolder.i3d"/>
+        <additionalFile filename="$data/shared/materialHolders/glowEffectMaterialHolder.i3d"/>
+        <additionalFile filename="$data/shared/mapTargetMarker.i3d"/>
+        <additionalFile filename="$data/particleSystems/particle_materialHolder.i3d" />
+        <additionalFile filename="$data/particleSystems/effect_materialHolder.i3d"/>
+        <additionalFile filename="$data/particleSystems/cutterEffect_materialHolder.i3d"/>
+        <additionalFile filename="$data/fillPlanes/fillPlane_materialHolder.i3d"/>
+        <additionalFile filename="particleSystems/particle_materialHolder.i3d"/>
+        <additionalFile filename="particleSystems/effect_materialHolder.i3d"/>
+        <additionalFile filename="particleSystems/cutterEffect_materialHolder.i3d"/>
+        <additionalFile filename="particleSystems/liquidEffects.i3d"/>
+        <additionalFile filename="fillPlanes/fillPlane_materialHolder.i3d"/>
+    </additionalFiles>
+    <mud>
+        <density filename="maps/map/mud_weight.grle"/>
+    </mud>
+    <seasons>
+        <mask filename="maps/map/seasonsMask.grle"/>
+        <missions>
+            <mission name="NPC01" type="snow" rewardScale="1" npcName="NPC_DE_01" location="$l10n_loc01" text="$l10n_snow01" farmlandId="46"/> <!--BGA-->
+            <mission name="NPC02" type="snow" rewardScale="1" npcName="NPC_DE_11" location="$l10n_loc02" text="$l10n_snow02"/>                 <!--Fire Station-->
+            <mission name="NPC03" type="snow" rewardScale="1" npcName="NPC_DE_03" location="$l10n_loc03" text="$l10n_snow03"/>                 <!--Gardencenter-->
+            <mission name="NPC04" type="snow" rewardScale="1" npcName="NPC_DE_14" location="$l10n_loc04" text="$l10n_snow04"/>                 <!--Lime Station-->
+            <mission name="NPC05" type="snow" rewardScale="1" npcName="NPC_DE_05" location="$l10n_loc05" text="$l10n_snow05" farmlandId="6"/>  <!--Sheep Farm-->
+            <mission name="NPC06" type="snow" rewardScale="1" npcName="NPC_DE_06" location="$l10n_loc06" text="$l10n_snow06" farmlandId="27"/> <!--Horse Farm-->
+            <mission name="NPC07" type="snow" rewardScale="1" npcName="NPC_DE_10" location="$l10n_loc07" text="$l10n_snow07"/>                 <!--Watermill-->
+            <mission name="NPC08" type="snow" rewardScale="1" npcName="NPC_DE_08" location="$l10n_loc08" text="$l10n_snow08" farmlandId="17"/> <!--camping site-->
+            <mission name="NPC09" type="snow" rewardScale="1" npcName="NPC_DE_09" location="$l10n_loc09" text="$l10n_snow09" farmlandId="20"/> <!--Cowzone-->
+            <mission name="NPC10" type="snow" rewardScale="1" npcName="NPC_DE_10" location="$l10n_loc10" text="$l10n_snow10" farmlandId="21"/> <!--Pigzone-->
+            <mission name="NPC11" type="snow" rewardScale="1" npcName="NPC_DE_11" location="$l10n_loc11" text="$l10n_snow11"/>                 <!--Compost Plant-->
+            <mission name="NPC12" type="snow" rewardScale="1" npcName="NPC_DE_13" location="$l10n_loc12" text="$l10n_snow12"/>                 <!--Supermarket-->
+            <mission name="NPC13" type="snow" rewardScale="1" npcName="NPC_DE_10" location="$l10n_loc13" text="$l10n_snow13"/>                 <!--Dairy-->
+            <mission name="NPC14" type="snow" rewardScale="1" npcName="NPC_DE_14" location="$l10n_loc14" text="$l10n_snow14"/>                 <!--Butcher-->
+            <mission name="NPC15" type="snow" rewardScale="1" npcName="NPC_DE_15" location="$l10n_loc15" text="$l10n_snow15"/>                 <!--Animal dealer-->
+            <mission name="NPC16" type="snow" rewardScale="1" npcName="NPC_DE_16" location="$l10n_loc16" text="$l10n_snow16"/>                 <!--Gas Station-->
+            <mission name="NPC17" type="snow" rewardScale="1" npcName="NPC_DE_15" location="$l10n_loc17" text="$l10n_snow17"/>                 <!--Vehicleshop-->
+            <mission name="NPC18" type="snow" rewardScale="1" npcName="NPC_DE_18" location="$l10n_loc18" text="$l10n_snow18" farmlandId="89"/> <!--Toom-->
+        </missions>
+    </seasons>
+    <groundTypeMappings showName="true">
+        <groundTypeMapping type="dirt"          layer="ROUGHDIRT"/>
+        <groundTypeMapping type="asphalt"       layer="ASPHALT"/>
+        <groundTypeMapping type="concrete"      layer="CONCRETE"/>
+        <groundTypeMapping type="gravel"        layer="GRAVEL"/>
+        <groundTypeMapping type="cobblestone"   layer="COBBLESTONE"/>
+        <groundTypeMapping type="platedamaged"  layer="PLATEDAMAGED"/>
+        <groundTypeMapping type="rock"          layer="MOUNTAINROCK"/>
+        <groundTypeMapping type="rock_dark"     layer="MOUNTAINROCKDARK"/>
+        <groundTypeMapping type="sandrough"     layer="SANDROUGH"/>
+        <groundTypeMapping type="sand"          layer="SANDWET"/>
+        <groundTypeMapping type="beachsand"     layer="BEACHSAND"/>
+        <groundTypeMapping type="roughMud"      layer="ROUGHMUD"/>
+        <groundTypeMapping type="animalMud"     layer="ANIMALMUD"/>
+        <groundTypeMapping type="vehicleMud"    layer="VEHMUD"/>
+        <groundTypeMapping type="puddle"        layer="waterPuddle03"/>
+        <groundTypeMapping type="vehmudpuddle"  layer="VEHMUDP"/>
+        <groundTypeMapping type="grass_town"    layer="GRASSTOWN"/>
+        <groundTypeMapping type="grass_rough"   layer="GRASSROUGH"/>
+        <groundTypeMapping type="forestLeaf"    layer="FORESTLEAVES"/>
+        <groundTypeMapping type="forestNeedle"  layer="FORESTNEEDLES"/>
+        <groundTypeMapping type="grass"         layer="GRASS"   paintableFoliageId="1"/>
+        <groundTypeMapping type="bush1"         layer="GRASS1"  paintableFoliageId="2"/>
+        <groundTypeMapping type="bush2"         layer="GRASS2"  paintableFoliageId="3"/>
+        <groundTypeMapping type="bush3"         layer="GRASS3"  paintableFoliageId="4"/>
+        <groundTypeMapping type="bush4"         layer="GRASS4"  paintableFoliageId="5"/>
+        <groundTypeMapping type="deco1"         layer="GRASS5"  paintableFoliageId="6"/>
+        <groundTypeMapping type="deco2"         layer="GRASS6"  paintableFoliageId="7"/>
+        <groundTypeMapping type="deco3"         layer="GRASS7"  paintableFoliageId="8"/>
+        <groundTypeMapping type="deco4"         layer="GRASS8"  paintableFoliageId="9"/>
+        <groundTypeMapping type="deco5"         layer="GRASS9"  paintableFoliageId="10"/>
+        <groundTypeMapping type="deco6"         layer="GRASS10" paintableFoliageId="11"/>
+        <groundTypeMapping type="deco7"         layer="GRASS11" paintableFoliageId="12"/>
+        <groundTypeMapping type="deco8"         layer="GRASS12" paintableFoliageId="13"/>
+        <groundTypeMapping type="deco9"         layer="GRASS13" paintableFoliageId="14"/>
+        <groundTypeMapping type="deco10"        layer="GRASS14" paintableFoliageId="15"/>
+        <groundTypeMapping type="deco11"        layer="GRASS15" paintableFoliageId="16"/>
+    </groundTypeMappings>
+    <paintableFoliages>
+        <paintableFoliage id="1"  layerName="pastureGrass"  firstDensityMapChannel="0" numDensityMapChannels="4" value="2"/>  <!--growing pastureGrass-->
+        <paintableFoliage id="2"  layerName="bush01"        firstDensityMapChannel="0" numDensityMapChannels="4" value="1"/>  <!--bushes st. 1-->
+        <paintableFoliage id="3"  layerName="bush01"        firstDensityMapChannel="0" numDensityMapChannels="4" value="2"/>  <!--bushes st. 2-->
+        <paintableFoliage id="4"  layerName="bush01"        firstDensityMapChannel="0" numDensityMapChannels="4" value="3"/>  <!--bushes st. 3-->
+        <paintableFoliage id="5"  layerName="bush01"        firstDensityMapChannel="0" numDensityMapChannels="4" value="4"/>  <!--bushes st. 4-->
+        <paintableFoliage id="6"  layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="1"/>  <!--grassLong small-->
+        <paintableFoliage id="7"  layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="2"/>  <!--grassLong middle-->
+        <paintableFoliage id="8"  layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="3"/>  <!--small alive-->
+        <paintableFoliage id="9"  layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="4"/>  <!--smallAlive rumex-->
+        <paintableFoliage id="10" layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="5"/>  <!--bigAlive apera-->
+        <paintableFoliage id="11" layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="6"/>  <!--bigAlive chaerophyllum-->
+        <paintableFoliage id="12" layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="7"/>  <!--bigAlive chenopodium-->
+        <paintableFoliage id="13" layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="8"/>  <!--bigAlive cirsium-->
+        <paintableFoliage id="14" layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="9"/>  <!--bigAlive papaverRhoeas-->
+        <paintableFoliage id="15" layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="10"/> <!--bigAlive rumex-->
+        <paintableFoliage id="16" layerName="decoFoliage"   firstDensityMapChannel="0" numDensityMapChannels="4" value="11"/> <!--grassDense-->
+    </paintableFoliages>
+</map>

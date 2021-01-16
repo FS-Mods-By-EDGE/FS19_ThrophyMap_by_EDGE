@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="53">
+    <author>EDGE Gaming</author>
+    <version>1.0.0.0</version>
+    <title><!-- en=English de=German jp=Japanese pl=Polish cz=Czech fr=French es=Spanish ru=Russian it=Italian pt=Portuguese hu=Hungary nl=Netherlands cs=Chinese (Simplified) ct=Chinese (Traditional) br=Brazilian-Portuguese tr=Turkish ro=Romanian kr=Korean -->
+        <en>Throphy Valley</en>
+        <de>Throphy Valley</de>
+        <fr>Throphy Valley</fr>
+        <es>Throphy Valley</es>
+        <ru>Кратер Бэй</ru>
+        <pl>Zatoka Kraterowa</pl>
+        <it>Throphy Valley</it>
+        <br>Throphy Valley</br>
+        <cs>火山口湾</cs>
+        <ct>火山口灣</ct>
+        <cz>Throphy Valley</cz>
+        <nl>Throphy Valley</nl>
+        <hu>Throphy Valley</hu>
+        <jp>クレーターベイ</jp>
+        <kr>크레이터 베이</kr>
+        <pt>Throphy Valley</pt>
+        <ro>Throphy Valley</ro>
+        <tr>Krater Körfezi</tr>
+    </title>
+    <description>
+        <en><![CDATA[Welcome to Throphy Valley, a fictive map in the northern part of Europe based on Loess Hill Country map by TP-Modding. Throphy Valley offers a lush green landscape and 61 irregular shaped fields, 3 minor villages and many sellpoints.
+
+You don't need any additional mods when playing on Throphy Valley, but the map is compatible with:
+- Seasons 19 by Realismus Modding (No additional GEO is needed. Throphy Valley has a build in GEO)
+- HorseExtension by the Farming Agency
+- Strawharvest Addon by Creative Mesh
+- AnimalPenExtension by GtX
+- Manure system by Wopster
+
+With Throphy Valley you will get a lot of custom features. Some of them are:
+- New fruittypes: Alfalfa, Clover, Horsegrass, Fieldgrass, Meadowgrass, Miscanthus, Triticale, Rye, Spelt, Millet, Onions, Carrots
+- New Silages (when playing with Horse Extension mods): Grassilage, Maizesilage, WCS, Cloversilage, Alfalfasilage, Horsesilage
+- FruitDestruction 2.0 - extended realistic fruit destruction
+- Feeding system reworked (when playing with Horse Extension mods)
+- Changed Horse Husbandries (added Manure)
+- Heighttype-Limit maxed to 128
+- CCM-Bin-Silo
+- Overhaul of light system by Realismus Modding, Oxygen_David
+- Custom sawmill buildings by Kastor
+- LandScapePaintText by HoT, DerElky
+- Additional terrain angles
+- Many additional paintable textures plus grass, bushes and weeds
+
+Script authors:
+- Ifko[nator] (AnimalFix, I3DLoadingFix, l10nfix, SprayerFix, addBalesToWrapper)
+- Farmer_Schubi (FillTypeMover)
+
+The map would not have been possible without the help of the following people:
+Modders: bgo1973, Kobuk (snowMask), Butterz (AD route network)
+Testers: overchord, Stu, GBP_Nation12, ddewar, Butterz, fattygabby, ticho, Northen, RebelliiouZ, GamemanDK, iw_shawn, Matty, bgo1973, Datalund
+
+Special thanks to:
+- The Alien Paul, Ifko[nator] and Kastor - For helping out with so many things and for giving permissions to use scripts and buildings!
+- all the others we have forgotten here]]></en>
+        <de><![CDATA[Willkommen in Throphy Valley, einer fiktiven Karte im Norden Europas mit einer üppigen, grünen Landschaft und 61 unregelmäßig geformten Feldern, auf denen ihr arbeiten könnt. Auf der Karte verteilt gibt es 3 kleinere Dörfer und viele Verkaufsstellen.
+
+Um die Karte spielen zu können, werden keine zusätzlichen Mods benötigt. Die Map unterstützt folgendes:
+- Seasons 19 von Ralismus Modding ( ein zusätzlichen GEO wird nicht benötigt, da es bereits enthalten ist)
+- HorseExtension von der Farming Agency
+- Strawharvest Addon von Creative Mesh
+- AnimalPenExtension von GtX
+- Manure system von Wopster
+
+Mit Throphy Valley erhalten Sie viele zusätzliche Funktionen. Einige von ihnen sind:
+- neue Fruchtsorten: Luzerne, Klee, Pferdegras, Weidegras, Ackergras, Elefantengras Triticale, Roggen, Dinkel, Hirse, Zwiebeln und Karotten
+- neue Silagesorten (wenn die Horse Extension genutzt wird):Grassilage, Maissilage, GPS, Luzernesilage, Kleesilage und Pferdesilage
+- Fruchtzerstörung 2.0
+- überarbeitetes Fütterungssystem (wenn die Horse Extension genutzt wird)
+- geänderte Pferderanch (Mistproduktion würde hinzugefügt)
+- abkippbare Haufen wurden auf 128 erhöht
+- CCM-Bin-Silo
+- überarbeitetes Lichtsystem von Realismus Modding, Oxygen_David
+- komplett neues Sägewerk mit Gebäuden von Kastor
+- LandScapePaintText von HoT, DerElky
+- Zusätzliche Bodenwinkel
+- Viele zusätzliche, malbare Texturen sowie Gras, Büsche, alle Unkräuter
+
+Script Autoren:
+- Ifko[nator] (AnimalFix, I3DLoadingFix, l10nfix, SprayerFix, addBalesToWrapper)
+- Farmer_Schubi (FillTypeMover)
+
+Die Umsetzung der Map wäre ohne folgende Personen nicht möglich gewesen:
+Modder: bgo1973, Kobuk (snowMask), Butterz (AD route network)
+Tester: overchord, Stu, GBP_Nation12, ddewar, Butterz, fattygabby, ticho, Northen, RebelliiouZ, GamemanDK, iw_shawn, Matty, bgo1973, Datalund
+
+Besonderen Dank an:
+- The Alien Paul, Ifko[nator] und Kastor - für die großartige Hilfe, Unterstüzung sowie für die Freigabe von Skripten und Gebäuden
+- alle anderen, die wir hier vergessen haben]]></de>
+        <fr><![CDATA[Bienvenue à Throphy Valley, une carte fictive du nord de l'Europe basée sur la carte Loess Hill Country de TP-Modding. Throphy Valley offre un paysage verdoyant et luxuriant et 61 champs de forme irrégulière, 3 petits villages et de nombreux points de vente.
+
+Vous n'avez pas besoin de mods supplémentaires lorsque vous jouez sur Throphy Valley, mais la carte est compatible avec:
+- Seasons 19 par Realismus Modding (aucun GEO supplémentaire n'est nécessaire. Throphy Valley a une construction dans GEO)
+- HorseExtension par Farming Agency
+- Addon Strawharvest par Creative Mesh
+- AnimalPenExtension par GtX
+- Manure system par Wopster
+
+Avec Throphy Valley, vous obtiendrez de nombreuses fonctionnalités personnalisées. Certains d'entre eux sont:
+- Nouveaux types de fruits: Luzerne, Trèfle, Herbe, Herbe des Champs, Prairie, Miscanthus, Triticale, Seigle, Épeautre, Millet, Oignons, Carottes
+- Nouveaux ensilages (lorsque vous jouez avec les mods Horse Extension): Grassilage, Maizesilage, WCS, Cloversilage, Alfalfasilage, Horsesilage
+- FruitDestruction 2.0 - destruction de fruits réaliste étendue
+- Système d'alimentation retravaillé (en jouant avec les mods Horse Extension)
+- Élevage de chevaux changé (fumier ajouté)
+- Hauteur maximale de la limite de type à 128
+- CCM-Bin-Silo
+- Refonte du système d'éclairage par Realismus Modding, Oxygen_David
+- Bâtiments de scierie personnalisés par Kastor
+- LandScapePaintText par HoT, DerElky
+- Angles de terrain supplémentaires
+- De nombreuses textures à peindre supplémentaires ainsi que de l'herbe, des buissons et des mauvaises herbes
+
+Auteurs de scripts:
+- Ifko[nator] (AnimalFix, I3DLoadingFix, l10nfix, SprayerFix, addBalesToWrapper)
+- Farmer_Schubi (FillTypeMover)
+
+La carte n'aurait pas été possible sans l'aide des personnes suivantes:
+Moddeurs: bgo1973, Kobuk (snowMask), Butterz (AD route network)
+Testeuses: overchord, Stu, GBP_Nation12, ddewar, Butterz, fattygabby, ticho, Northen, RebelliiouZ, GamemanDK, iw_shawn, Matty, bgo1973, Datalund
+
+Remerciement spécial à:
+- The Alien Paul, Ifko[nator] and Kastor - Pour avoir aidé avec tant de choses et pour avoir donné l'autorisation d'utiliser des scripts et des bâtiments!
+- tous les autres que nous avons oubliés ici]]></fr>
+    </description>
+    <iconFilename>throphyMap_icon.DDS</iconFilename>
+    <multiplayer supported="true">
+        <requiredMod filename="FS19_EDGE_MapPlaceables"/>
+        <requiredMod filename="FS19_TrophyMap_by_EDGE"/>
+    </multiplayer>
+    <l10n filenamePrefix="modDesc/modDesc_l10n"/>
+    <extraSourceFiles>
+        <sourceFile filename="scripts/l10nFix.lua"/>
+        <sourceFile filename="scripts/ShopController.lua"/>
+    </extraSourceFiles>
+    <maps>
+        <map id="Throphy Valley" className="Mission00" filename="$dataS/scripts/missions/mission00.lua" configFilename="xmlFiles/throphyMap.xml" defaultVehiclesXMLFilename="xmlFiles/throphyMapVehicles.xml" defaultItemsXMLFilename="xmlFiles/throphyMapItems.xml">
+            <title>
+                <en>Welcome to Throphy Valley</en>
+                <de>Throphy Valley</de>
+                <fr>Throphy Valley</fr>
+                <it>Throphy Valley</it>
+                <es>Throphy Valley</es>
+                <br>Throphy Valley</br>
+                <cs>Throphy Valley</cs>
+                <ct>Throphy Valley</ct>
+                <cz>Throphy Valley</cz>
+                <nl>Throphy Valley</nl>
+                <hu>Throphy Valley</hu>
+                <jp>エスタンシアラパチョ</jp>
+                <kr>Throphy Valley</kr>
+                <pl>Throphy Valley</pl>
+                <pt>Throphy Valley</pt>
+                <ro>Throphy Valley</ro>
+                <ru>Throphy Valley</ru>
+                <tr>Throphy Valley</tr>
+            </title>
+            <description>
+                <en><![CDATA[Throphy Valley has emerged! a Huge Island Inspired by Nosy Be island (Antsiranana Province) off the North West coast of Madagascar with all FS19 features.
+You will find a rundown farm on a Huge, Hilly & overgown Island, the area has been left behind by active farmers due to bad ferry connection.
+Now its up to you to get the land back in functioning order.]]></en>
+                <de><![CDATA[Multi Verkaufsstation. Hier können Sie alles verkaufen, was Sie möchten, von der Ernte bis zu Saatgut und Dünger.
+        Die Verkaufspreise schwanken und erscheinen auf dem PDA / der Statistik.
+        Die Gebäude verfügen über eine automatische Beleuchtung.]]></de>
+                <fr><![CDATA[Poste de vente multiple. Ici, vous pouvez vendre ce que vous voulez, de la récolte aux semences et aux engrais.
+        Les prix de vente fluctueront et apparaîtront sur le PDA / Statistics.
+        Les bâtiments ont un éclairage automatique.]]></fr>
+                <es><![CDATA[Estación De Venta Múltiple. Aquí puede vender lo que quiera, desde la cosecha hasta las semillas y los fertilizantes.
+        Los precios de venta fluctuarán y aparecerán en el PDA / Estadísticas.
+        Los edificios tienen iluminación automática.]]></es>
+                <ru><![CDATA[Мультипродажная станция. Здесь вы можете продать все, что захотите, от сбора урожая до семян и удобрений.
+        Продажные цены будут колебаться и отображаться на КПК / Статистика.
+        Здания имеют автоматическое освещение.]]></ru>
+                <pl><![CDATA[Stacja Sprzedaży. Tutaj możesz sprzedać wszystko, co chcesz, od zbiorów upraw po nasiona i nawozy.
+        Ceny sprzedaży będą się zmieniać i pojawiać na PDA / statystykach.
+        Budynki mają automatyczne oświetlenie.]]></pl>
+                <it>Benvenuto all’Throphy Valley!</it>
+                <es>¡Te damos la bienvenida a Throphy Valley!</es>
+                <br>Bem-vindo à Throphy Valley!</br>
+                <cs>欢迎来到紫檀大庄园！</cs>
+                <ct>歡迎來到紫檀大莊園！</ct>
+                <cz>Vítejte v Throphy Valley!</cz>
+                <nl>Welkom op de Throphy Valley!</nl>
+                <hu>Üdvözöl Throphy Valley!</hu>
+                <jp>エスタンシアラパチョにようこそ！</jp>
+                <kr>Throphy Valley에 오신 것을 환영합니다!</kr>
+                <pt>Bem-vindo à Throphy Valley!</pt>
+                <ro>Bun venit la Throphy Valley!</ro>
+                <tr>Throphy Valley'ya hoş geldin!</tr>
+            </description>
+            <iconFilename>throphyMap_preview.dds</iconFilename>
+        </map>
+    </maps>
+    <storeItems>
+        <storeItem xmlFilename="data/vehicles/lizardWeight550/lizardWeight550.xml"/>
+    </storeItems>
+    <brands>
+        <brand name="EDGE" title="EDGE Industries" image="icons/EDGE_Brand_Logo.dds"/>
+        <brand name="LIMAGRAIN" title="Limagrain" image="icons/Limagrain_Logo.dds"/>
+    </brands>
+    <credits><![CDATA[
+## Contributors
+- Castiga, EDGE Gaming
+## Translations
+- Castiga
+## Designers
+- Trojan horse, Castiga]]></credits>
+</modDesc>

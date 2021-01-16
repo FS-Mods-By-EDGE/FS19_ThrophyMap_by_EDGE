@@ -7,7 +7,7 @@
   # *data/*.shapes
 
 # build files
-
+*.shapes
 # Prerequisites
 
 # Compiled sources

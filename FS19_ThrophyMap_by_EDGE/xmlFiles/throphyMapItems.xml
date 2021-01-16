@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<items>
+    <!-- Sellingstations -->
+    <item mapBoundId="sellingStationBrauerei"       className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/sellingStationBrauerei.xml"     position="966.892 39.999 -747.575"    rotation="0 -59.208 0"/>
+    <item mapBoundId="RaiffeisenSellPointGrain"     className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/landHandelSellPointGrain.xml"   position="-624.507 8.9 872.727"       rotation="0 15.464 0"/>
+    <item mapBoundId="RaiffeisenSellPointBales"     className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/landHandelSellPointBales.xml"   position="-615.157 8.743 922.418"     rotation="0 19.379 0"/>
+    <item mapBoundId="supermarketSellPoint"         className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/supermarketSellPoint.xml"       position="741.995 1.922 1240.23"      rotation="0 -1.107 0"/>
+    <item mapBoundId="toom"                         className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/toom.xml"                       position="-900.898 8.393 538.175"     rotation="180 43.727 180"/>
+    <item mapBoundId="BeachClubSellPoint"           className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/BeachClubSellPoint.xml"         position="5.243 5.358 467.344"        rotation="180 -89.886 180"/>
+    <item mapBoundId="farmShopSellPoint"            className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/farmShopSellPoint.xml"          position="-844.347 3.508 -1703.849"   rotation="-180 -85.509 180"/>
+    <item mapBoundId="GetreideWernerSellPoint"      className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/GetreideWernerSellPoint.xml"    position="-1330.744 4.364 70.651"     rotation="0 -80.204 0"/>
+    <item mapBoundId="KompostierAnlageSellPoint"    className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/KompostierAnlageSellPoint.xml"  position="1140.574 5.805 1279.632"    rotation="180 -89.594 180"/>
+    <item mapBoundId="MuehleSellPoint"              className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/MuehleSellPoint.xml"            position="99.435 10.419 -1473.61"     rotation="0 -42.869 0"/>
+    <item mapBoundId="WassermuehleSellPoint"        className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/WassermuehleSellPoint.xml"      position="-624.233 2.966 274.514"     rotation="180 11.522 180"/>
+    <item mapBoundId="dairySellPoint"               className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/dairySellPoint.xml"             position="762.812 1.961 1509.69"      rotation="0 180 0"/>
+    <item mapBoundId="Kartoffelfabrik"              className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/Kartoffelfabrik.xml"            position="-422.192 8.791 876.927"     rotation="0 0 0"/>
+    <item mapBoundId="sellingStationHeating"        className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/BioMassHeating.xml"             position="-1215.661 11.541 -1111.324" rotation="180 -44.302 180"/>
+    <item mapBoundId="sellingStationWoodChips"      className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/woodChips.xml"                  position="-1054.073 10.995 625.859"   rotation="0 0 0"/>
+    <item mapBoundId="sellingStationWood"           className="WoodSellStationPlaceable"    filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/LumberMill.xml"                 position="-1030.666 10.975 618.913"   rotation="0 0 0"/>
+    <item mapBoundId="Zuckerfabrik"                 className="SellingStationPlaceable"     filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/Zuckerfabrik.xml"               position="808.987 1.934 1390.706"     rotation="0 0 0"/>
+    <item mapBoundId="sellingStationVehicles"       className="Workshop"                    filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/sellingStationVehicles.xml"     position="-94.232 1.303 120.472"      rotation="0 -33.227 0"/>
+    <!-- buyingstations -->
+    <item mapBoundId="waterTank_lime"               className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/waterTank_lime.xml"              position="-1986.007 -0.939 -1635.988" rotation="0 -88.614 0"/>
+    <item mapBoundId="waterTank_lime"               className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/waterTank_lime.xml"              position="-1986.172 -0.939 -1642.793" rotation="0 -88.614 0"/>
+    <item mapBoundId="waterTank_lime"               className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/waterTank_lime.xml"              position="-1993.971 -0.939 -1642.7"   rotation="0 -88.614 0"/>
+    <item mapBoundId="waterTank_lime"               className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/waterTank_lime.xml"              position="-1994.097 -0.939 -1635.839" rotation="0 -88.614 0"/>
+    <item mapBoundId="waterFillTriggers"            className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/waterFillTriggers/waterFillTriggers.xml"        position="0 0 0"                      rotation="0 0 0"/>
+    <item mapBoundId="gasStation"                   className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/gasStation.xml"                  position="-588.81 8.906 986.143"      rotation="0 -22.114 0"/>
+    <item mapBoundId="LiqidFertilizer"              className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/F_and_H_tank/liquidFertilizer.xml"              position="918.631 40.408 -591.03"     rotation="0 90 0"                    defaultFarmProperty="false" farmId="1"/>
+    <item mapBoundId="LiqidFertilizer"              className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/F_and_H_tank/liquidHerbicide.xml"               position="918.631 40.408 -591.03"     rotation="0 90 0"                    defaultFarmProperty="false" farmId="1"/>
+    <item mapBoundId="buyingStation_Muehle"         className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/buyingStation_Muehle.xml"        position="77.715 4.034 -1452.666"     rotation="0 -49.81 0"/>
+    <item mapBoundId="gardencenter_fert"            className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/gardencenter_fert.xml"           position="-783.634 -0.934 -1727.312"  rotation="0 1.748 0"/>
+    <item mapBoundId="gardencenter_seeds"           className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/gardencenter_seeds.xml"          position="-780.675 0 -1693.448"       rotation="0 0 0"/>
+    <item mapBoundId="Raiffeisen_seeds"             className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/landhandel_seeds.xml"            position="-622.211 8.931 903.074"     rotation="0 -67.726 0"/>
+    <item mapBoundId="Raiffeisen_fert"              className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/landhandel_fert.xml"             position="-596.753 8.634 911.436"     rotation="180 -68.677 180"/>
+    <item mapBoundId="buyingStation_feedStore"      className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/buyingStation_feedStore.xml"     position="-1351.73 -1.286 86.87"      rotation="0 4.221 0"/>
+    <item mapBoundId="buyingStation_compost"        className="BuyingStationPlaceable"      filename="$moddir$FS19_Eiersholt/maps/placeables/buyingStations/buyingStation_compost.xml"       position="1096.662 -0.144 1259.491"   rotation="0 90 0"/>
+    <!-- Static Buildings -->
+    <item mapBoundId="horseStableHall"              className="Placeable"                   filename="$moddir$FS19_Eiersholt/maps/placeables/ridinghall/horsestable.xml"                     position="634.286 33.168 -1109.585"    rotation="0 -47.756 0"              defaultFarmProperty="false" farmId="42"/>
+    <item mapBoundId="vehicleShop"                  className="Placeable"                   filename="$moddir$FS19_Eiersholt/maps/placeables/vehicleShop/vehicleShop.xml"                    position="-33.033 1.303 81.144"       rotation="180 -59.08 180"/>
+    <item mapBoundId="werkstatt01"                  className="Workshop"                    filename="$moddir$FS19_Eiersholt/maps/placeables/toolshed/werkstatt01.xml"                       position="948.185 40.004 -726.558"    rotation="180 -32.228 180"           defaultFarmProperty="false" farmId="42"/>
+    <!-- BGA-->
+    <item mapBoundId="bga"                          className="BgaPlaceable"                filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/bga.xml"                        position="-1085.73 18.62 -1065.99"    rotation="0 -47.381 0">
+        <bunkerSilo index="1" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+        <bunkerSilo index="2" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+        <bunkerSilo index="3" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+        <bunkerSilo index="4" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+    </item>
+    <!-- Silos -->
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/farmSilos/farmSiloSmall.xml"                    position="941.303 39.325 -528.112"    rotation="0 0 0"                     defaultFarmProperty="false" farmId="1">
+        <storage index="1" farmId="1">
+            <node fillType="POTATO" fillLevel="2100.000000"/>
+            <node fillType="SUGARBEET" fillLevel="1400.000000"/>
+            <node fillType="SUGARCANE" fillLevel="1200.000000"/>
+            <node fillType="CARROT" fillLevel="1600.000000"/>
+            <node fillType="ONION" fillLevel="2400.000000"/>
+        </storage>
+    </item>
+    <item className="BunkerSiloPlaceable"                                                   filename="$moddir$FS19_Eiersholt/maps/placeables/farmSilos/bunkersiloFarm.xml"                   position="904.398 39.732 -501.861"    rotation="0 -90 0"                   defaultFarmProperty="false" farmId="1">
+        <bunkerSilo index="1" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+        <bunkerSilo index="2" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+    </item>
+    <item className="BunkerSiloPlaceable"                                                   filename="$moddir$FS19_Eiersholt/maps/placeables/farmSilos/bunkersiloFarm.xml"                   position="909.7 38.95 -446.159"       rotation="-180 0 -180"               defaultFarmProperty="false" farmId="1">
+        <bunkerSilo index="1" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+        <bunkerSilo index="2" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+    </item>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/silohall.xml"                             position="1005.83 45.57 -685.281"     rotation="-0.2 18.183 -0.3"          defaultFarmProperty="false" farmId="1">
+        <storage index="1" farmId="1">
+            <node fillType="BARLEY" fillLevel="6100.000000"/>
+            <node fillType="WHEAT" fillLevel="5400.000000"/>
+            <node fillType="CANOLA" fillLevel="6000.000000"/>
+            <node fillType="MAIZE" fillLevel="7100.000000"/>
+            <node fillType="OAT" fillLevel="3100.000000"/>
+            <node fillType="SUNFLOWER" fillLevel="7700.000000"/>
+            <node fillType="SOYBEAN" fillLevel="6300.000000"/>
+            <node fillType="TRITICALE" fillLevel="4800.000000"/>
+            <node fillType="SPELT" fillLevel="8400.000000"/>
+            <node fillType="FIELD_GRASS" fillLevel="7600.000000"/>
+            <node fillType="RYE" fillLevel="8700.000000"/>
+            <node fillType="MILLET" fillLevel="3400.000000"/>
+        </storage>
+    </item>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/farmSilos/duengerlager.xml"                     position="920.232 41.256 -561.574"    rotation="0 2.335 0"                 defaultFarmProperty="false" farmId="1">
+        <storage index="1" farmId="1">
+            <node fillType="FERTILIZER" fillLevel="27250.000000"/>
+        </storage>
+    </item>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/farmSilos/saatgutlager.xml"                     position="921.532 41 -585.811"        rotation="180 0.629 180"             defaultFarmProperty="false" farmId="1">
+        <storage index="1" farmId="1">
+            <node fillType="SEEDS" fillLevel="12700.000000"/>
+        </storage>
+    </item>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/farmSilos/fillable_tankstelle.xml"              position="968.961 40.32 -723.33"      rotation="0 -56.975 0"               defaultFarmProperty="false" farmId="1">
+        <storage index="1" farmId="1">
+            <node fillType="DIESEL" fillLevel="6100.000000"/>
+        </storage>
+    </item>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/farmSilos/kalklager.xml"                        position="914.407 40.425 -602.366"      rotation="-178.499 30.18 -179.77"  defaultFarmProperty="false" farmId="1">
+        <storage index="1" farmId="1">
+            <node fillType="LIME" fillLevel="83142.000000"/>
+        </storage>
+    </item>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/mods/FS19_CCM_Herstellung/FS19_CCM_Herstellung.xml"             position="1000.045 39.214 -519.696"   rotation="0 0 0"                     defaultFarmProperty="false" farmId="42"/>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/manureStorage/manurestorage.xml"                position="-244.045 8.588 -194.345"    rotation="180 -73.687 180"/>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/slurryStorage/slurryStorage.xml"                position="-14.487 5.146 30.907"       rotation="180 26.367 180"/>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/centerDepot/centerDepot.xml"                    position="-151.048 8.588 -121.693"    rotation="0 0 0"/>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/centerDepot/centerDepot2.xml"                   position="-120.204 8.786 -94.064"     rotation="180 -65.519 180"/>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/centerDepot/centerDepot3.xml"                   position="-162.537 8.636 -115.788"    rotation="0 -34.857 0"/>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/centerDepot/centerDepot4.xml"                   position="-171.577 8.636 -102.809"    rotation="0 -34.857 0"/>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/centerDepot/centerDepot5.xml"                   position="-180.739 8.636 -89.655"     rotation="0 -34.857 0"/>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/centerDepot/centerDepot6.xml"                   position="-226.943 8.716 -170.33"     rotation="180 -70.197 180"/>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/centerDepot/centerDepot7.xml"                   position="-154.351 8.786 -54.834"     rotation="0 -138.319 0"/> 
+    <!-- Buildings -->
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/Hall.xml"                                 position="901.275 40.919 -540.816"    rotation="0 -86.475 0"               defaultFarmProperty="false" farmId="1"/>
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/Maschinenhalle_klein.xml"                 position="995.393 40.274 -623.043"    rotation="-179.735 -18.679 -179.681" defaultFarmProperty="false" farmId="1"/>
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/Maschinenhalle_klein.xml"                 position="979.872 39.367 -555.33"     rotation="1.451 0.981 -0.036"        defaultFarmProperty="false" farmId="1"/>
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/Maschinenhalle2.xml"                      position="1025.55 40.691 -632.442"    rotation="1.539 -76.997 -0.432"      defaultFarmProperty="false" farmId="1"/>
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/Maschinenhalle2.xml"                      position="811.625 45.299 -542.036"    rotation="0 -89.329 0"               defaultFarmProperty="false" farmId="1"/>
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/Maschinenhalle_GSi.xml"                   position="778.857 46.117 -541.76"     rotation="180 3.754 180"             defaultFarmProperty="false" farmId="1"/>
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/GDR_GrainStore.xml"                       position="1036.23 38.868 -475.954"    rotation="0 0 0"                     defaultFarmProperty="false" farmId="42"/>
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/BGAhousing.xml"                 position="-352.346 -179.342 -527.854" rotation="0 -46.688 0"/>
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/sellingStations/landHandel.xml"                 position="0 0 0"                      rotation="0 0 0" />
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/building04.xml"                           position="561.741 30.028 -1245.123"   rotation="-0.173 -29.582 0.904"/>
+    <item className="FarmhousePlaceable"                                                    filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/farmHouse.xml"                            position="1038.54 41.204 -574.184"    rotation="180 -90 180"               defaultFarmProperty="false" farmId="1"/>
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/MachineShed_V2.xml"                       position="923.845 41.246 -611.576"    rotation="180 -60.356 180"           defaultFarmProperty="false" farmId="1"/>
+    <item className="Placeable"                                                             filename="$moddir$FS19_Eiersholt/maps/placeables/Halle/Haybarn.xml"                              position="839.092 44.182 -521.156"    rotation="0 86.479 0"                defaultFarmProperty="false" farmId="1"/>
+    <!-- Animals -->
+    <item className="AnimalHusbandry"                                                       filename="$moddir$FS19_Eiersholt/maps/placeables/animals/cowStable.xml"                          position="807.917 44.925 -595.234"    rotation="0 90 0"                    defaultFarmProperty="false" farmId="42"/>
+    <item className="AnimalHusbandry"                                                       filename="$moddir$FS19_Eiersholt/maps/placeables/animals/Schweinestall.xml"                      position="989.832 38.902 -461.922"    rotation="0 -90 0"                   defaultFarmProperty="false" farmId="42"/>
+    <item className="AnimalHusbandry"                                                       filename="$moddir$FS19_Eiersholt/maps/placeables/animals/sheepFarm.xml"                          position="1611.821 51.38 -1301.67"    rotation="0 0 0"                     defaultFarmProperty="false" farmId="42"/>
+    <item className="AnimalHusbandry"                                                       filename="$moddir$FS19_Eiersholt/maps/placeables/animals/husbandryHorse.xml"                     position="613.924 30.682 -1257.662"   rotation="0 38 0"                    defaultFarmProperty="false" farmId="42"/>
+    <item className="AnimalHusbandry"                                                       filename="$moddir$FS19_Eiersholt/maps/placeables/animals/chickenStable.xml"                      position="963.389 40.3 -647.813"      rotation="0 16.29 0"                 defaultFarmProperty="false" farmId="1"/>
+    <!-- Mixer -->
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/forager/forager.xml"                            position="873.846 39.749 -479.889"    rotation="0 180 0"                   defaultFarmProperty="false" farmId="42">
+        <storage index="1" farmId="1"/>
+    </item>
+    <item className="SiloPlaceable"                                                         filename="$moddir$FS19_Eiersholt/maps/placeables/pigFeeder/pigFeeder.xml"                        position="1012.821 39.13 -517.358"    rotation="0 0 0"                     defaultFarmProperty="false" farmId="42">
+        <storage index="1" farmId="1"/>
+    </item>
+</items>

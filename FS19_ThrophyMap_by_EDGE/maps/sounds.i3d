@@ -1,0 +1,2263 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<i3D name="untitled" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+  <Asset>
+    <Export program="GIANTS Editor 64bit" version="8.2.0"/>
+  </Asset>
+
+  <Files>
+    <File fileId="105" filename="$data/sounds/maps/details/eu/jingle.wav"/>
+    <File fileId="93" filename="$data/sounds/maps/details/shared/animal_shop_1.wav"/>
+    <File fileId="95" filename="$data/sounds/maps/details/shared/animal_shop_2.wav"/>
+    <File fileId="94" filename="$data/sounds/maps/details/shared/animal_shop_6.wav"/>
+    <File fileId="81" filename="$data/sounds/maps/details/shared/bell_church.wav"/>
+    <File fileId="92" filename="$data/sounds/maps/details/shared/biogas_loop.wav"/>
+    <File fileId="90" filename="$data/sounds/maps/details/shared/biogas_plant_loop_01.wav"/>
+    <File fileId="91" filename="$data/sounds/maps/details/shared/biogas_plant_rotating_01.wav"/>
+    <File fileId="74" filename="$data/sounds/maps/details/shared/car_driveby1.wav"/>
+    <File fileId="76" filename="$data/sounds/maps/details/shared/car_driveby2.wav"/>
+    <File fileId="77" filename="$data/sounds/maps/details/shared/car_driveby3.wav"/>
+    <File fileId="75" filename="$data/sounds/maps/details/shared/car_driveby4.wav"/>
+    <File fileId="78" filename="$data/sounds/maps/details/shared/car_driveby5.wav"/>
+    <File fileId="79" filename="$data/sounds/maps/details/shared/car_driveby6.wav"/>
+    <File fileId="80" filename="$data/sounds/maps/details/shared/car_driveby7.wav"/>
+    <File fileId="119" filename="$data/sounds/maps/details/shared/carpentry_1.wav"/>
+    <File fileId="121" filename="$data/sounds/maps/details/shared/carpentry_2.wav"/>
+    <File fileId="122" filename="$data/sounds/maps/details/shared/carpentry_3.wav"/>
+    <File fileId="123" filename="$data/sounds/maps/details/shared/carpentry_4.wav"/>
+    <File fileId="124" filename="$data/sounds/maps/details/shared/carpentry_5.wav"/>
+    <File fileId="120" filename="$data/sounds/maps/details/shared/carpentry_6.wav"/>
+    <File fileId="100" filename="$data/sounds/maps/details/shared/debris_1.wav"/>
+    <File fileId="102" filename="$data/sounds/maps/details/shared/debris_2.wav"/>
+    <File fileId="103" filename="$data/sounds/maps/details/shared/debris_3.wav"/>
+    <File fileId="101" filename="$data/sounds/maps/details/shared/debris_4.wav"/>
+    <File fileId="96" filename="$data/sounds/maps/details/shared/debris_5.wav"/>
+    <File fileId="98" filename="$data/sounds/maps/details/shared/debris_6.wav"/>
+    <File fileId="99" filename="$data/sounds/maps/details/shared/debris_7.wav"/>
+    <File fileId="104" filename="$data/sounds/maps/details/shared/debris_8.wav"/>
+    <File fileId="97" filename="$data/sounds/maps/details/shared/debris_9.wav"/>
+    <File fileId="89" filename="$data/sounds/maps/details/shared/electric_buzz_02_loop.wav"/>
+    <File fileId="82" filename="$data/sounds/maps/details/shared/horse_stable_1.wav"/>
+    <File fileId="84" filename="$data/sounds/maps/details/shared/horse_stable_2.wav"/>
+    <File fileId="83" filename="$data/sounds/maps/details/shared/horse_stable_3.wav"/>
+    <File fileId="85" filename="$data/sounds/maps/details/shared/horse_stable_4.wav"/>
+    <File fileId="87" filename="$data/sounds/maps/details/shared/horse_stable_5.wav"/>
+    <File fileId="88" filename="$data/sounds/maps/details/shared/horse_stable_6.wav"/>
+    <File fileId="86" filename="$data/sounds/maps/details/shared/horse_stable_7.wav"/>
+    <File fileId="106" filename="$data/sounds/maps/details/shared/metal_creak_1.wav"/>
+    <File fileId="108" filename="$data/sounds/maps/details/shared/metal_creak_2.wav"/>
+    <File fileId="109" filename="$data/sounds/maps/details/shared/metal_creak_3.wav"/>
+    <File fileId="110" filename="$data/sounds/maps/details/shared/metal_creak_4.wav"/>
+    <File fileId="111" filename="$data/sounds/maps/details/shared/metal_creak_5.wav"/>
+    <File fileId="107" filename="$data/sounds/maps/details/shared/metal_creak_6.wav"/>
+    <File fileId="112" filename="$data/sounds/maps/details/shared/wood_creak_1.wav"/>
+    <File fileId="114" filename="$data/sounds/maps/details/shared/wood_creak_2.wav"/>
+    <File fileId="115" filename="$data/sounds/maps/details/shared/wood_creak_3.wav"/>
+    <File fileId="116" filename="$data/sounds/maps/details/shared/wood_creak_4.wav"/>
+    <File fileId="117" filename="$data/sounds/maps/details/shared/wood_creak_5.wav"/>
+    <File fileId="118" filename="$data/sounds/maps/details/shared/wood_creak_6.wav"/>
+    <File fileId="113" filename="$data/sounds/maps/details/shared/wood_creak_7.wav"/>
+    <File fileId="73" filename="$data/sounds/maps/environment/eu/lake_1.wav"/>
+    <File fileId="134" filename="$data/sounds/maps/environment/eu/wind_layer_citadel.wav"/>
+    <File fileId="135" filename="$data/sounds/maps/environment/eu/wind_layer_mountain.wav"/>
+    <File fileId="136" filename="$data/sounds/maps/environment/shared/in_map/field_wind.wav"/>
+    <File fileId="125" filename="$data/sounds/maps/environment/shared/in_map/thunder1.wav"/>
+    <File fileId="127" filename="$data/sounds/maps/environment/shared/in_map/thunder2.wav"/>
+    <File fileId="128" filename="$data/sounds/maps/environment/shared/in_map/thunder3.wav"/>
+    <File fileId="129" filename="$data/sounds/maps/environment/shared/in_map/thunder4.wav"/>
+    <File fileId="126" filename="$data/sounds/maps/environment/shared/in_map/thunder5.wav"/>
+    <File fileId="130" filename="$data/sounds/maps/environment/shared/in_map/waterfall_1.wav"/>
+    <File fileId="131" filename="$data/sounds/maps/environment/shared/in_map/waterfall_2.wav"/>
+    <File fileId="132" filename="$data/sounds/maps/environment/shared/in_map/waterfall_3.wav"/>
+    <File fileId="133" filename="$data/sounds/maps/environment/shared/in_map/waterfall_4.wav"/>
+    <File fileId="137" filename="$data/sounds/maps/environment/shared/in_map/wind_layer_leaves_1.wav"/>
+    <File fileId="139" filename="$data/sounds/maps/environment/shared/in_map/wind_layer_leaves_2.wav"/>
+    <File fileId="140" filename="$data/sounds/maps/environment/shared/in_map/wind_layer_leaves_3.wav"/>
+    <File fileId="141" filename="$data/sounds/maps/environment/shared/in_map/wind_layer_leaves_4.wav"/>
+    <File fileId="142" filename="$data/sounds/maps/environment/shared/in_map/wind_layer_leaves_5.wav"/>
+    <File fileId="138" filename="$data/sounds/maps/environment/shared/in_map/wind_layer_leaves_6.wav"/>
+    <File fileId="1" filename="$data/sounds/maps/fauna/eu/birds/bird_flycatcher1.wav"/>
+    <File fileId="2" filename="$data/sounds/maps/fauna/eu/birds/bird_flycatcher2.wav"/>
+    <File fileId="3" filename="$data/sounds/maps/fauna/eu/birds/bird_flycatcher3.wav"/>
+    <File fileId="6" filename="$data/sounds/maps/fauna/eu/birds/bird_flycatcher4.wav"/>
+    <File fileId="8" filename="$data/sounds/maps/fauna/eu/birds/bird_flycatcher5.wav"/>
+    <File fileId="7" filename="$data/sounds/maps/fauna/eu/birds/bird_flycatcher6.wav"/>
+    <File fileId="5" filename="$data/sounds/maps/fauna/eu/birds/bird_nightingale1.wav"/>
+    <File fileId="4" filename="$data/sounds/maps/fauna/eu/birds/bird_nightingale2.wav"/>
+    <File fileId="9" filename="$data/sounds/maps/fauna/eu/birds/bird_nightingale3.wav"/>
+    <File fileId="10" filename="$data/sounds/maps/fauna/eu/birds/bird_nightingale4.wav"/>
+    <File fileId="11" filename="$data/sounds/maps/fauna/eu/birds/bird_nightingale5.wav"/>
+    <File fileId="16" filename="$data/sounds/maps/fauna/eu/birds/bird_nightingale6.wav"/>
+    <File fileId="12" filename="$data/sounds/maps/fauna/eu/birds/bird_skylark1.wav"/>
+    <File fileId="13" filename="$data/sounds/maps/fauna/eu/birds/bird_skylark2.wav"/>
+    <File fileId="14" filename="$data/sounds/maps/fauna/eu/birds/bird_skylark3.wav"/>
+    <File fileId="17" filename="$data/sounds/maps/fauna/eu/birds/bird_skylark4.wav"/>
+    <File fileId="18" filename="$data/sounds/maps/fauna/eu/birds/bird_skylark5.wav"/>
+    <File fileId="19" filename="$data/sounds/maps/fauna/eu/birds/bird_skylark6.wav"/>
+    <File fileId="15" filename="$data/sounds/maps/fauna/eu/birds/bird_warbler1.wav"/>
+    <File fileId="20" filename="$data/sounds/maps/fauna/eu/birds/bird_warbler2.wav"/>
+    <File fileId="21" filename="$data/sounds/maps/fauna/eu/birds/bird_warbler3.wav"/>
+    <File fileId="22" filename="$data/sounds/maps/fauna/eu/birds/bird_warbler4.wav"/>
+    <File fileId="26" filename="$data/sounds/maps/fauna/eu/birds/bird_warbler5.wav"/>
+    <File fileId="27" filename="$data/sounds/maps/fauna/eu/birds/bird_warbler6.wav"/>
+    <File fileId="29" filename="$data/sounds/maps/fauna/eu/birds/bird_woodlark1.wav"/>
+    <File fileId="24" filename="$data/sounds/maps/fauna/eu/birds/bird_woodlark2.wav"/>
+    <File fileId="30" filename="$data/sounds/maps/fauna/eu/birds/bird_woodlark3.wav"/>
+    <File fileId="25" filename="$data/sounds/maps/fauna/eu/birds/bird_woodlark4.wav"/>
+    <File fileId="23" filename="$data/sounds/maps/fauna/eu/birds/bird_woodlark5.wav"/>
+    <File fileId="28" filename="$data/sounds/maps/fauna/eu/birds/bird_woodlark6.wav"/>
+    <File fileId="42" filename="$data/sounds/maps/fauna/eu/birds/eagle_1.wav"/>
+    <File fileId="43" filename="$data/sounds/maps/fauna/eu/birds/eagle_2.wav"/>
+    <File fileId="44" filename="$data/sounds/maps/fauna/eu/birds/eagle_3.wav"/>
+    <File fileId="45" filename="$data/sounds/maps/fauna/eu/birds/eagle_4.wav"/>
+    <File fileId="49" filename="$data/sounds/maps/fauna/shared/birds/bird_loon1.wav"/>
+    <File fileId="51" filename="$data/sounds/maps/fauna/shared/birds/bird_loon2.wav"/>
+    <File fileId="50" filename="$data/sounds/maps/fauna/shared/birds/bird_loon3.wav"/>
+    <File fileId="46" filename="$data/sounds/maps/fauna/shared/birds/bird_loon4.wav"/>
+    <File fileId="48" filename="$data/sounds/maps/fauna/shared/birds/bird_loon5.wav"/>
+    <File fileId="47" filename="$data/sounds/maps/fauna/shared/birds/bird_loon6.wav"/>
+    <File fileId="52" filename="$data/sounds/maps/fauna/shared/birds/bird_woodpecker1.wav"/>
+    <File fileId="54" filename="$data/sounds/maps/fauna/shared/birds/bird_woodpecker2.wav"/>
+    <File fileId="55" filename="$data/sounds/maps/fauna/shared/birds/bird_woodpecker3.wav"/>
+    <File fileId="53" filename="$data/sounds/maps/fauna/shared/birds/bird_woodpecker4.wav"/>
+    <File fileId="34" filename="$data/sounds/maps/fauna/shared/birds/gull1.wav"/>
+    <File fileId="39" filename="$data/sounds/maps/fauna/shared/birds/gull2.wav"/>
+    <File fileId="37" filename="$data/sounds/maps/fauna/shared/birds/gull3.wav"/>
+    <File fileId="36" filename="$data/sounds/maps/fauna/shared/birds/gull4.wav"/>
+    <File fileId="38" filename="$data/sounds/maps/fauna/shared/birds/gull5.wav"/>
+    <File fileId="41" filename="$data/sounds/maps/fauna/shared/birds/gull6.wav"/>
+    <File fileId="40" filename="$data/sounds/maps/fauna/shared/birds/gull7.wav"/>
+    <File fileId="35" filename="$data/sounds/maps/fauna/shared/birds/gull8.wav"/>
+    <File fileId="33" filename="$data/sounds/maps/fauna/shared/birds/morning_birds1.wav"/>
+    <File fileId="32" filename="$data/sounds/maps/fauna/shared/birds/morning_birds2.wav"/>
+    <File fileId="31" filename="$data/sounds/maps/fauna/shared/birds/morning_birds3.wav"/>
+    <File fileId="72" filename="$data/sounds/maps/fauna/shared/misc/cricket1.wav"/>
+    <File fileId="56" filename="$data/sounds/maps/fauna/shared/misc/dog_distant1.wav"/>
+    <File fileId="58" filename="$data/sounds/maps/fauna/shared/misc/dog_distant2.wav"/>
+    <File fileId="59" filename="$data/sounds/maps/fauna/shared/misc/dog_distant3.wav"/>
+    <File fileId="60" filename="$data/sounds/maps/fauna/shared/misc/dog_distant4.wav"/>
+    <File fileId="61" filename="$data/sounds/maps/fauna/shared/misc/dog_distant5.wav"/>
+    <File fileId="62" filename="$data/sounds/maps/fauna/shared/misc/dog_distant6.wav"/>
+    <File fileId="63" filename="$data/sounds/maps/fauna/shared/misc/dog_distant7.wav"/>
+    <File fileId="57" filename="$data/sounds/maps/fauna/shared/misc/dog_distant8.wav"/>
+    <File fileId="71" filename="$data/sounds/maps/fauna/shared/misc/frog_loop3.wav"/>
+    <File fileId="67" filename="$data/sounds/maps/fauna/shared/misc/frog_single1.wav"/>
+    <File fileId="64" filename="$data/sounds/maps/fauna/shared/misc/frog_single2.wav"/>
+    <File fileId="68" filename="$data/sounds/maps/fauna/shared/misc/frog_single3.wav"/>
+    <File fileId="69" filename="$data/sounds/maps/fauna/shared/misc/frog_single4.wav"/>
+    <File fileId="70" filename="$data/sounds/maps/fauna/shared/misc/frog_single5.wav"/>
+    <File fileId="65" filename="$data/sounds/maps/fauna/shared/misc/frog_single6.wav"/>
+    <File fileId="66" filename="$data/sounds/maps/fauna/shared/misc/frog_single7.wav"/>
+  </Files>
+
+
+  <Materials>
+  </Materials>
+
+
+  <Shapes>
+  </Shapes>
+
+
+  <Dynamics>
+  </Dynamics>
+
+  <Scene>
+    <TransformGroup name="audio_group" nodeId="5">
+      <TransformGroup name="fauna" nodeId="6">
+        <TransformGroup name="birds" nodeId="7">
+          <AudioSource name="bird_flycatcher1" translation="-1372.6 7.02759 -1391.46" nodeId="8" fileId="1" range="750" innerRange="100" volume="0.3" loops="1" color="1 1 0">
+            <AudioSource name="bird_flycatcher2" nodeId="10" fileId="2" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_flycatcher3" nodeId="12" fileId="3" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_nightingale2" nodeId="14" fileId="4" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_nightingale1" nodeId="16" fileId="5" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher4" translation="-1391.6 35.408 -1412.11" nodeId="18" fileId="6" range="750" innerRange="100" volume="0.3" loops="1" color="1 1 0">
+            <AudioSource name="bird_flycatcher6" nodeId="20" fileId="7" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_flycatcher5" nodeId="22" fileId="8" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_nightingale3" nodeId="24" fileId="9" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_nightingale4" nodeId="26" fileId="10" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="bird_nightingale5" translation="-454.819 88.1217 494.555" nodeId="28" fileId="11" range="750" innerRange="100" volume="0.3" loops="1" color="1 1 0">
+            <AudioSource name="bird_skylark1" nodeId="30" fileId="12" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_skylark2" nodeId="32" fileId="13" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_skylark3" nodeId="34" fileId="14" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_warbler1" nodeId="36" fileId="15" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="bird_nightingale6" translation="-202.354 189.168 -832.482" nodeId="38" fileId="16" range="750" innerRange="100" volume="0.3" loops="1" color="1 1 0">
+            <AudioSource name="bird_skylark4" nodeId="40" fileId="17" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_skylark5" nodeId="42" fileId="18" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_skylark6" nodeId="44" fileId="19" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_warbler2" nodeId="46" fileId="20" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="bird_warbler3" translation="173.231 92.621 -106.949" nodeId="48" fileId="21" range="750" innerRange="100" volume="0.3" loops="1" color="1 1 0">
+            <AudioSource name="bird_warbler4" nodeId="50" fileId="22" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_woodlark5" nodeId="52" fileId="23" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_woodlark2" nodeId="54" fileId="24" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_woodlark4" translation="3.60649 -61.8885 -77.5005" nodeId="56" fileId="25" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="bird_warbler5" translation="659.661 100.978 526.14" nodeId="58" fileId="26" range="750" innerRange="100" volume="0.3" loops="1" color="1 1 0">
+            <AudioSource name="bird_warbler6" nodeId="60" fileId="27" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_woodlark6" nodeId="62" fileId="28" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_woodlark1" nodeId="64" fileId="29" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+            <AudioSource name="bird_woodlark3" nodeId="66" fileId="30" range="100" innerRange="30" volume="0.3" loops="1" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="morning_birds3" translation="0 -1121.04 23.6972" nodeId="68" fileId="31" range="10000" innerRange="10000" volume="0.5" loops="1" color="1 1 0">
+            <AudioSource name="morning_birds2" nodeId="70" fileId="32" range="100" innerRange="30" volume="0.5" loops="1" color="1 1 0"/>
+            <AudioSource name="morning_birds1" nodeId="72" fileId="33" range="100" innerRange="30" volume="0.5" loops="1" color="1 1 0"/>
+          </AudioSource>
+          <TransformGroup name="gulls_town" translation="0 -45.022 -120.263" nodeId="74">
+            <AudioSource name="gull_1" translation="44.9564 49.0588 393.328" nodeId="75" fileId="34" range="300" innerRange="50" volume="0.8" loops="1" color="1 1 0">
+              <AudioSource name="gull_8" nodeId="77" fileId="35" range="300" innerRange="50" volume="0.8" loops="1" color="1 1 0"/>
+              <AudioSource name="gull_4" nodeId="79" fileId="36" range="300" innerRange="50" volume="0.8" loops="1" color="1 1 0"/>
+            </AudioSource>
+            <AudioSource name="gull_3" translation="241.073 49.0589 30.8374" nodeId="81" fileId="37" range="300" innerRange="50" volume="0.8" loops="1" color="1 1 0">
+              <AudioSource name="gull_5" nodeId="83" fileId="38" range="300" innerRange="50" volume="0.8" loops="1" color="1 1 0"/>
+            </AudioSource>
+            <AudioSource name="gull_2" translation="-1112.75 47.4248 563.908" nodeId="85" fileId="39" range="300" innerRange="50" volume="0.8" loops="1" color="1 1 0">
+              <AudioSource name="gull_7" nodeId="87" fileId="40" range="300" innerRange="50" volume="0.8" loops="1" color="1 1 0"/>
+              <AudioSource name="gull_6" nodeId="89" fileId="41" range="300" innerRange="50" volume="0.8" loops="1" color="1 1 0"/>
+            </AudioSource>
+          </TransformGroup>
+          <AudioSource name="eagle_1" translation="1459.31 40.2297 -551.529" nodeId="91" fileId="42" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0">
+            <AudioSource name="eagle_2" translation="-915.463 -9.85431 -583.857" nodeId="93" fileId="43" range="100" innerRange="30" volume="0.6" loops="0" color="1 1 0"/>
+            <AudioSource name="eagle_3" translation="-921.099 12.021 -285.732" nodeId="95" fileId="44" range="100" innerRange="30" volume="0.6" loops="0" color="1 1 0"/>
+            <AudioSource name="eagle_4" translation="93.691 35.4725 -993.217" nodeId="97" fileId="45" range="100" innerRange="30" volume="0.6" loops="0" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="bird_loon4" translation="-177.216 11.4947 -1608.46" nodeId="99" fileId="46" range="750" innerRange="600" volume="0.5" loops="1" color="1 1 0">
+            <AudioSource name="bird_loon6" nodeId="101" fileId="47" range="100" innerRange="30" volume="0.5" loops="0" color="1 1 0"/>
+            <AudioSource name="bird_loon5" nodeId="103" fileId="48" range="100" innerRange="30" volume="0.5" loops="0" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="bird_loon1" translation="2002.41 22.0463 596.721" nodeId="105" fileId="49" range="750" innerRange="50" volume="0.5" loops="1" color="1 1 0">
+            <AudioSource name="bird_loon3" nodeId="107" fileId="50" range="100" innerRange="30" volume="0.5" loops="0" color="1 1 0"/>
+            <AudioSource name="bird_loon2" nodeId="109" fileId="51" range="100" innerRange="30" volume="0.5" loops="0" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="woodpecker1" translation="451.859 36.8756 -873.502" nodeId="111" fileId="52" range="400" innerRange="200" volume="0.3" loops="1" color="1 1 0">
+            <AudioSource name="woodpecker4" nodeId="113" fileId="53" range="100" innerRange="30" volume="0.3" loops="0" color="1 1 0"/>
+            <AudioSource name="woodpecker2" nodeId="115" fileId="54" range="100" innerRange="30" volume="0.3" loops="0" color="1 1 0"/>
+            <AudioSource name="woodpecker3" nodeId="117" fileId="55" range="100" innerRange="30" volume="0.3" loops="0" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="morning_birds3" translation="242.202 55.408 -681.588" nodeId="119" fileId="31" range="150" innerRange="100" volume="0.5" loops="0">
+            <AudioSource name="morning_birds1" translation="-4.9822 -16.3994 9.84508" nodeId="121" fileId="33" range="150" innerRange="100" volume="0.5" loops="0"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher1" translation="-1456.52 12.2167 -14.1642" nodeId="123" fileId="1" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher2" nodeId="125" fileId="2" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher3" nodeId="127" fileId="3" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale2" nodeId="129" fileId="4" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale1" nodeId="131" fileId="5" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher1" translation="-1541.58 14.3591 1415.47" nodeId="133" fileId="1" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher2" nodeId="135" fileId="2" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher3" nodeId="137" fileId="3" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale2" nodeId="139" fileId="4" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale1" nodeId="141" fileId="5" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher1" translation="15.0734 26.9756 -1662.81" nodeId="143" fileId="1" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher2" nodeId="145" fileId="2" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher3" nodeId="147" fileId="3" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale2" nodeId="149" fileId="4" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale1" nodeId="151" fileId="5" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher1" translation="-118.036 8.6228 -42.1965" nodeId="153" fileId="1" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher2" nodeId="155" fileId="2" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher3" nodeId="157" fileId="3" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale2" nodeId="159" fileId="4" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale1" nodeId="161" fileId="5" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher1" translation="-201.701 9.23096 1415.86" nodeId="163" fileId="1" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher2" nodeId="165" fileId="2" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher3" nodeId="167" fileId="3" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale2" nodeId="169" fileId="4" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale1" nodeId="171" fileId="5" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher1" translation="1615.51 97.4609 -1554.16" nodeId="173" fileId="1" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher2" nodeId="175" fileId="2" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher3" nodeId="177" fileId="3" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale2" nodeId="179" fileId="4" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale1" nodeId="181" fileId="5" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher1" translation="1436.74 43.2766 -220.199" nodeId="183" fileId="1" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher2" nodeId="185" fileId="2" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher3" nodeId="187" fileId="3" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale2" nodeId="189" fileId="4" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale1" nodeId="191" fileId="5" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher1" translation="1407.92 6.87964 1411.54" nodeId="193" fileId="1" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher2" nodeId="195" fileId="2" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher3" nodeId="197" fileId="3" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale2" nodeId="199" fileId="4" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale1" nodeId="201" fileId="5" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher4" translation="-1395.96 8.42334 92.7551" nodeId="203" fileId="6" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher6" nodeId="205" fileId="7" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher5" nodeId="207" fileId="8" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale3" nodeId="209" fileId="9" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale4" nodeId="211" fileId="10" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher4" translation="-1383.99 27.9058 1415.67" nodeId="213" fileId="6" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher6" nodeId="215" fileId="7" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher5" nodeId="217" fileId="8" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale3" nodeId="219" fileId="9" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale4" nodeId="221" fileId="10" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher4" translation="715.963 33.0566 -1709.66" nodeId="223" fileId="6" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher6" nodeId="225" fileId="7" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher5" nodeId="227" fileId="8" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale3" nodeId="229" fileId="9" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale4" nodeId="231" fileId="10" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher4" translation="62.817 5.00635 -90.7198" nodeId="233" fileId="6" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher6" nodeId="235" fileId="7" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher5" nodeId="237" fileId="8" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale3" nodeId="239" fileId="9" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale4" nodeId="241" fileId="10" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher4" translation="-144.707 12.0679 1339.63" nodeId="243" fileId="6" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher6" nodeId="245" fileId="7" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher5" nodeId="247" fileId="8" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale3" nodeId="249" fileId="9" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale4" nodeId="251" fileId="10" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher4" translation="1485.25 61.8816 -1231.25" nodeId="253" fileId="6" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher6" nodeId="255" fileId="7" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher5" nodeId="257" fileId="8" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale3" nodeId="259" fileId="9" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale4" nodeId="261" fileId="10" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher4" translation="1481.72 55.9941 -99.7516" nodeId="263" fileId="6" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher6" nodeId="265" fileId="7" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher5" nodeId="267" fileId="8" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale3" nodeId="269" fileId="9" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale4" nodeId="271" fileId="10" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_flycatcher4" translation="1183.91 0.566895 1071.65" nodeId="273" fileId="6" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_flycatcher6" nodeId="275" fileId="7" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_flycatcher5" nodeId="277" fileId="8" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale3" nodeId="279" fileId="9" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_nightingale4" nodeId="281" fileId="10" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_nightingale5" translation="989.338 37.9392 -892.426" nodeId="283" fileId="11" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_skylark1" nodeId="285" fileId="12" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark2" nodeId="287" fileId="13" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark3" nodeId="289" fileId="14" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_warbler1" nodeId="291" fileId="15" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_nightingale5" translation="-74.8315 11.5818 -1253.04" nodeId="293" fileId="11" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_skylark1" nodeId="295" fileId="12" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark2" nodeId="297" fileId="13" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark3" nodeId="299" fileId="14" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_warbler1" nodeId="301" fileId="15" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_nightingale5" translation="-1399.81 11.8713 -566.743" nodeId="303" fileId="11" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_skylark1" nodeId="305" fileId="12" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark2" nodeId="307" fileId="13" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark3" nodeId="309" fileId="14" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_warbler1" nodeId="311" fileId="15" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_nightingale5" translation="1031.99 3.13184 1204.73" nodeId="313" fileId="11" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_skylark1" nodeId="315" fileId="12" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark2" nodeId="317" fileId="13" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark3" nodeId="319" fileId="14" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_warbler1" nodeId="321" fileId="15" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_nightingale5" translation="1031.99 3.13184 1204.73" nodeId="323" fileId="11" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_skylark1" nodeId="325" fileId="12" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark2" nodeId="327" fileId="13" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark3" nodeId="329" fileId="14" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_warbler1" nodeId="331" fileId="15" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_nightingale5" translation="1031.99 3.13184 1204.73" nodeId="333" fileId="11" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_skylark1" nodeId="335" fileId="12" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark2" nodeId="337" fileId="13" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark3" nodeId="339" fileId="14" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_warbler1" nodeId="341" fileId="15" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_nightingale5" translation="-812.18 4.39771 1447.37" nodeId="343" fileId="11" range="750" innerRange="100" volume="0.3" loops="1">
+            <AudioSource name="bird_skylark1" nodeId="345" fileId="12" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark2" nodeId="347" fileId="13" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_skylark3" nodeId="349" fileId="14" range="100" innerRange="30" volume="0.3" loops="1"/>
+            <AudioSource name="bird_warbler1" nodeId="351" fileId="15" range="100" innerRange="30" volume="0.3" loops="1"/>
+          </AudioSource>
+          <AudioSource name="bird_loon4" translation="962.096 39.9921 -589.058" nodeId="353" fileId="46" range="750" innerRange="600" volume="0.5" loops="1">
+            <AudioSource name="bird_loon6" nodeId="355" fileId="47" range="100" innerRange="30" volume="0.5" loops="0"/>
+            <AudioSource name="bird_loon5" nodeId="357" fileId="48" range="100" innerRange="30" volume="0.5" loops="0"/>
+          </AudioSource>
+          <AudioSource name="woodpecker1" translation="1545.12 73.61 -1593.71" nodeId="359" fileId="52" range="400" innerRange="200" volume="0.3" loops="1">
+            <AudioSource name="woodpecker4" nodeId="361" fileId="53" range="100" innerRange="30" volume="0.3" loops="0"/>
+            <AudioSource name="woodpecker2" nodeId="363" fileId="54" range="100" innerRange="30" volume="0.3" loops="0"/>
+            <AudioSource name="woodpecker3" nodeId="365" fileId="55" range="100" innerRange="30" volume="0.3" loops="0"/>
+          </AudioSource>
+          <AudioSource name="woodpecker1" translation="1324.54 71.302 42.471" nodeId="367" fileId="52" range="400" innerRange="200" volume="0.3" loops="1">
+            <AudioSource name="woodpecker4" nodeId="369" fileId="53" range="100" innerRange="30" volume="0.3" loops="0"/>
+            <AudioSource name="woodpecker2" nodeId="371" fileId="54" range="100" innerRange="30" volume="0.3" loops="0"/>
+            <AudioSource name="woodpecker3" nodeId="373" fileId="55" range="100" innerRange="30" volume="0.3" loops="0"/>
+          </AudioSource>
+          <AudioSource name="woodpecker1" translation="-1153.25 33.1832 794.119" nodeId="375" fileId="52" range="400" innerRange="200" volume="0.3" loops="1">
+            <AudioSource name="woodpecker4" nodeId="377" fileId="53" range="100" innerRange="30" volume="0.3" loops="0"/>
+            <AudioSource name="woodpecker2" nodeId="379" fileId="54" range="100" innerRange="30" volume="0.3" loops="0"/>
+            <AudioSource name="woodpecker3" nodeId="381" fileId="55" range="100" innerRange="30" volume="0.3" loops="0"/>
+          </AudioSource>
+          <AudioSource name="morning_birds3" translation="969.803 40.0126 -593.744" nodeId="383" fileId="31" range="150" innerRange="100" volume="0.5" loops="0">
+            <AudioSource name="morning_birds1" translation="-4.9822 -16.3994 9.84508" nodeId="385" fileId="33" range="150" innerRange="100" volume="0.5" loops="0"/>
+          </AudioSource>
+        </TransformGroup>
+        <TransformGroup name="misc" nodeId="387">
+          <AudioSource name="dog_distant1" translation="-472.414 8.85608 804.651" nodeId="388" fileId="56" range="500" innerRange="150" volume="0.6" loops="1" color="1 1 0">
+            <AudioSource name="dog_distant8" nodeId="390" fileId="57" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant2" nodeId="392" fileId="58" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant3" nodeId="394" fileId="59" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant4" nodeId="396" fileId="60" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant5" nodeId="398" fileId="61" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant6" nodeId="400" fileId="62" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant7" nodeId="402" fileId="63" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="dog_distant1" translation="734.951 3.33569 1388.83" nodeId="404" fileId="56" range="250" innerRange="150" volume="0.6" loops="1" color="1 1 0">
+            <AudioSource name="dog_distant8" nodeId="406" fileId="57" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant2" nodeId="408" fileId="58" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant3" nodeId="410" fileId="59" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant4" nodeId="412" fileId="60" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant5" nodeId="414" fileId="61" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant6" nodeId="416" fileId="62" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+            <AudioSource name="dog_distant7" nodeId="418" fileId="63" range="100" innerRange="30" volume="0.6" loops="1" color="1 1 0"/>
+          </AudioSource>
+          <AudioSource name="dog_distant1" translation="951.599 37.9621 -832.731" nodeId="420" fileId="56" range="500" innerRange="150" volume="0.6" loops="1">
+            <AudioSource name="dog_distant8" nodeId="422" fileId="57" range="100" innerRange="30" volume="0.6" loops="1"/>
+            <AudioSource name="dog_distant2" nodeId="424" fileId="58" range="100" innerRange="30" volume="0.6" loops="1"/>
+            <AudioSource name="dog_distant3" nodeId="426" fileId="59" range="100" innerRange="30" volume="0.6" loops="1"/>
+            <AudioSource name="dog_distant4" nodeId="428" fileId="60" range="100" innerRange="30" volume="0.6" loops="1"/>
+            <AudioSource name="dog_distant5" nodeId="430" fileId="61" range="100" innerRange="30" volume="0.6" loops="1"/>
+            <AudioSource name="dog_distant6" nodeId="432" fileId="62" range="100" innerRange="30" volume="0.6" loops="1"/>
+            <AudioSource name="dog_distant7" nodeId="434" fileId="63" range="100" innerRange="30" volume="0.6" loops="1"/>
+          </AudioSource>
+          <TransformGroup name="frogs_lake" translation="338.033 -19.0917 -2525.22" nodeId="436">
+            <AudioSource name="frog_single2" translation="1404.14 125.845 880.875" nodeId="437" fileId="64" range="40" innerRange="5" volume="0.6" loops="1" color="1 1 0">
+              <AudioSource name="frog_single6" nodeId="439" fileId="65" range="100" innerRange="30" volume="0.75" loops="0" color="1 1 0"/>
+              <AudioSource name="frog_single7" nodeId="441" fileId="66" range="100" innerRange="30" volume="0.75" loops="0" color="1 1 0"/>
+            </AudioSource>
+            <AudioSource name="frog_single1" translation="943.232 69.5565 1876.81" nodeId="443" fileId="67" range="40" innerRange="5" volume="0.6" loops="1" color="1 1 0">
+              <AudioSource name="frog_single3" nodeId="445" fileId="68" range="100" innerRange="30" volume="0.75" loops="0" color="1 1 0"/>
+              <AudioSource name="frog_single4" translation="-756.21 -46.428 527.823" nodeId="447" fileId="69" range="100" innerRange="30" volume="0.75" loops="0" color="1 1 0"/>
+              <AudioSource name="frog_single5" translation="-1588.89 -47.9489 997.498" nodeId="449" fileId="70" range="100" innerRange="30" volume="0.75" loops="0" color="1 1 0"/>
+              <AudioSource name="frog_single3" translation="-2359.16 -44.6671 1026.77" nodeId="451" fileId="68" range="100" innerRange="30" volume="0.75" loops="0"/>
+            </AudioSource>
+            <AudioSource name="frog_single2" translation="1160.26 69.6931 1532.36" nodeId="453" fileId="64" range="40" innerRange="5" volume="0.6" loops="1">
+              <AudioSource name="frog_single6" nodeId="455" fileId="65" range="100" innerRange="30" volume="0.75" loops="0"/>
+              <AudioSource name="frog_single7" nodeId="457" fileId="66" range="100" innerRange="30" volume="0.75" loops="0"/>
+            </AudioSource>
+            <AudioSource name="frog_single2" translation="748.305 69.5565 2202.99" nodeId="459" fileId="64" range="40" innerRange="5" volume="0.6" loops="1">
+              <AudioSource name="frog_single6" nodeId="461" fileId="65" range="100" innerRange="30" volume="0.75" loops="0"/>
+              <AudioSource name="frog_single7" nodeId="463" fileId="66" range="100" innerRange="30" volume="0.75" loops="0"/>
+            </AudioSource>
+          </TransformGroup>
+          <AudioSource name="frog_loop1" translation="921.053 5.12704 -132.572" nodeId="465" fileId="71" range="40" innerRange="5" volume="0.6" loops="1" color="1 1 0"/>
+          <AudioSource name="crickets" translation="891.719 46.6594 -591.019" nodeId="467" fileId="72" range="10000" innerRange="10000" volume="0.1" loops="1" color="1 1 0"/>
+        </TransformGroup>
+      </TransformGroup>
+      <TransformGroup name="details" nodeId="469">
+        <TransformGroup name="city" translation="0 0 -2546.65" nodeId="470">
+          <AudioSource name="car_alarm" translation="-572.951 16.0331 3399.37" nodeId="471" fileId="73" range="200" innerRange="100" volume="0.3" loops="1" color="1 0 1"/>
+          <TransformGroup name="city_sounds" translation="0 1000 0" nodeId="473">
+            <TransformGroup name="controlNodes" nodeId="474">
+              <TransformGroup name="transform" translation="-160.422 84.695 741.47" nodeId="475"/>
+              <TransformGroup name="transform" translation="519.828 84.695 711.128" nodeId="476"/>
+            </TransformGroup>
+            <TransformGroup name="sounds" nodeId="477">
+              <AudioSource name="car_driveby1" translation="-160.422 84.695 741.47" nodeId="478" fileId="74" range="150" innerRange="100" volume="0.3" loops="1" color="1 0 1">
+                <AudioSource name="car_driveby4" nodeId="480" fileId="75" range="100" innerRange="30" volume="0.3" loops="1" color="1 0 1"/>
+                <AudioSource name="car_driveby2" nodeId="482" fileId="76" range="100" innerRange="30" volume="0.3" loops="1" color="1 0 1"/>
+                <AudioSource name="car_driveby3" nodeId="484" fileId="77" range="100" innerRange="30" volume="0.3" loops="1" color="1 0 1"/>
+              </AudioSource>
+              <AudioSource name="car_driveby5" translation="-160.422 84.695 741.47" nodeId="486" fileId="78" range="150" innerRange="100" volume="0.3" loops="1" color="1 0 1">
+                <AudioSource name="car_driveby6" nodeId="488" fileId="79" range="100" innerRange="30" volume="0.3" loops="1" color="1 0 1"/>
+                <AudioSource name="car_driveby7" nodeId="490" fileId="80" range="100" innerRange="30" volume="0.3" loops="1" color="1 0 1"/>
+              </AudioSource>
+            </TransformGroup>
+          </TransformGroup>
+          <AudioSource name="church_bell9" translation="-634.249 21.0894 3271.94" nodeId="492" fileId="81" range="350" innerRange="40" volume="1" loops="1" color="1 0 1"/>
+          <AudioSource name="church_bell12" translation="-636.046 15.2529 3282.45" nodeId="494" fileId="81" range="350" innerRange="40" volume="1" loops="1" color="1 0 1"/>
+          <AudioSource name="church_bell18" translation="-634.987 15.2529 3277.41" nodeId="496" fileId="81" range="350" innerRange="40" volume="1" loops="1" color="1 0 1"/>
+          <AudioSource name="horse_stable_1" translation="627.272 30.858 1310.01" nodeId="498" fileId="82" range="100" innerRange="15" volume="0.4" loops="1" color="1 0 1">
+            <AudioSource name="horse_stable_3" nodeId="500" fileId="83" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+            <AudioSource name="horse_stable_2" nodeId="502" fileId="84" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+          </AudioSource>
+          <AudioSource name="horse_stable_4" translation="668.25 33.6789 1424.12" nodeId="504" fileId="85" range="100" innerRange="15" volume="0.4" loops="1" color="1 0 1">
+            <AudioSource name="horse_stable_7" nodeId="506" fileId="86" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+            <AudioSource name="horse_stable_5" nodeId="508" fileId="87" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+            <AudioSource name="horse_stable_6" nodeId="510" fileId="88" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+          </AudioSource>
+        </TransformGroup>
+        <TransformGroup name="electric_buzz" translation="0 0 -2169.9" nodeId="512">
+          <AudioSource name="electric_buzz_02_loop" translation="1339.98 81.0079 2235.01" nodeId="513" fileId="89" range="10" innerRange="1" volume="0.6" loops="1" color="1 0 1"/>
+          <AudioSource name="electric_buzz_02_loop" translation="1894.93 130.679 275.814" nodeId="515" fileId="89" range="10" innerRange="1" volume="0.6" loops="1" color="1 0 1"/>
+          <AudioSource name="electric_buzz_02_loop" translation="-150.873 8.62256 2116.56" nodeId="517" fileId="89" range="10" innerRange="1" volume="0.6" loops="1" color="1 0 1"/>
+          <AudioSource name="electric_buzz_02_loop" translation="-1022.69 10.9572 2818.08" nodeId="519" fileId="89" range="10" innerRange="1" volume="0.6" loops="1" color="1 0 1"/>
+          <AudioSource name="electric_buzz_02_loop" translation="-1347.74 4.16705 2229.63" nodeId="521" fileId="89" range="10" innerRange="1" volume="0.6" loops="1" color="1 0 1"/>
+        </TransformGroup>
+        <TransformGroup name="biogas_plant" translation="-1086.49 12.2334 -1116.39" nodeId="523">
+          <AudioSource name="biogas_plant_loop_01" translation="46.5989 0 9.80261" nodeId="524" fileId="90" range="65" innerRange="15" volume="0.3" loops="1" color="1 0 1"/>
+          <AudioSource name="biogas_plant_rotating_01" translation="17.0963 0.0137939 9.41565" nodeId="526" fileId="91" range="40" innerRange="15" volume="0.5" loops="1" color="1 0 1"/>
+          <AudioSource name="biogas_loop" translation="11.6506 0.200066 -14.0406" nodeId="528" fileId="92" range="120" innerRange="80" volume="0.3" loops="1" color="1 0 1"/>
+        </TransformGroup>
+        <AudioSource name="animal_shop_1" translation="-562.757 16.8634 794.907" nodeId="530" fileId="93" range="100" innerRange="30" volume="0.3" loops="1" color="1 0 1">
+          <AudioSource name="animal_shop_6" translation="-2.02783 0.321053 0.6828" nodeId="532" fileId="94" range="100" innerRange="30" volume="0.3" loops="1" color="1 0 1"/>
+          <AudioSource name="animal_shop_2" translation="-19.4922 -6.54485 -0.641052" nodeId="534" fileId="95" range="100" innerRange="30" volume="0.3" loops="1" color="1 0 1"/>
+        </AudioSource>
+        <TransformGroup name="citadel" translation="0 0 1882" nodeId="536">
+          <AudioSource name="debris_5" translation="1100.38 7.97787 -621.308" rotation="0 -26.3078 0" nodeId="537" fileId="96" range="75" innerRange="50" volume="0.4" loops="1" color="1 0 1">
+            <AudioSource name="debris_9" nodeId="539" fileId="97" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+            <AudioSource name="debris_6" nodeId="541" fileId="98" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+            <AudioSource name="debris_7" translation="377.195 -137.014 343.893" nodeId="543" fileId="99" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+          </AudioSource>
+          <AudioSource name="debris_1" translation="805.2 1.93387 -469.682" nodeId="545" fileId="100" range="75" innerRange="50" volume="0.4" loops="0" color="1 0 1">
+            <AudioSource name="debris_4" nodeId="547" fileId="101" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+            <AudioSource name="debris_2" nodeId="549" fileId="102" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+            <AudioSource name="debris_3" nodeId="551" fileId="103" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+            <AudioSource name="debris_8" nodeId="553" fileId="104" range="100" innerRange="30" volume="0.4" loops="0" color="1 0 1"/>
+          </AudioSource>
+        </TransformGroup>
+        <AudioSource name="jingle" translation="0 29.2919 299.488" nodeId="555" fileId="105" range="1250" innerRange="1000" volume="0.2" loops="1" color="0 1 1"/>
+        <AudioSource name="metal_creak_1" translation="1115.25 1.14934 1262.9" nodeId="557" fileId="106" range="75" innerRange="20" volume="0.3" loops="1" color="1 0 1">
+          <AudioSource name="metal_creak_6" nodeId="559" fileId="107" range="100" innerRange="30" volume="0.3" loops="0" color="1 0 1"/>
+          <AudioSource name="metal_creak_2" nodeId="561" fileId="108" range="100" innerRange="30" volume="0.3" loops="0" color="1 0 1"/>
+          <AudioSource name="metal_creak_3" nodeId="563" fileId="109" range="100" innerRange="30" volume="0.3" loops="0" color="1 0 1"/>
+          <AudioSource name="metal_creak_4" nodeId="565" fileId="110" range="100" innerRange="30" volume="0.3" loops="0" color="1 0 1"/>
+          <AudioSource name="metal_creak_5" nodeId="567" fileId="111" range="100" innerRange="30" volume="0.3" loops="0" color="1 0 1"/>
+        </AudioSource>
+        <AudioSource name="wood_creak_1" translation="1494.11 25.8691 756.681" nodeId="569" fileId="112" range="50" innerRange="15" volume="0.15" loops="1" color="1 0 1">
+          <AudioSource name="wood_creak_7" nodeId="571" fileId="113" range="100" innerRange="30" volume="0.15" loops="0" color="1 0 1"/>
+          <AudioSource name="wood_creak_2" nodeId="573" fileId="114" range="100" innerRange="30" volume="0.15" loops="0" color="1 0 1"/>
+          <AudioSource name="wood_creak_3" nodeId="575" fileId="115" range="100" innerRange="30" volume="0.15" loops="0" color="1 0 1"/>
+          <AudioSource name="wood_creak_4" nodeId="577" fileId="116" range="100" innerRange="30" volume="0.15" loops="0" color="1 0 1"/>
+          <AudioSource name="wood_creak_5" nodeId="579" fileId="117" range="100" innerRange="30" volume="0.15" loops="0" color="1 0 1"/>
+          <AudioSource name="wood_creak_6" nodeId="581" fileId="118" range="100" innerRange="30" volume="0.15" loops="0" color="1 0 1"/>
+        </AudioSource>
+        <AudioSource name="carpentry_1" translation="-1040.35 10.9572 619.077" nodeId="583" fileId="119" range="65" innerRange="15" volume="0.3" loops="1" color="1 0 1">
+          <AudioSource name="carpentry_6" translation="-803.993 -129.046 1153.63" nodeId="585" fileId="120" range="100" innerRange="30" volume="0.3" loops="0" color="1 0 1"/>
+          <AudioSource name="carpentry_2" translation="574.732 -40.3525 695.606" nodeId="587" fileId="121" range="100" innerRange="30" volume="0.3" loops="0" color="1 0 1"/>
+          <AudioSource name="carpentry_3" translation="654.191 -33.3452 677.886" nodeId="589" fileId="122" range="100" innerRange="30" volume="0.3" loops="0" color="1 0 1"/>
+          <AudioSource name="carpentry_4" translation="566.089 -40.3804 649.292" nodeId="591" fileId="123" range="100" innerRange="30" volume="0.3" loops="0" color="1 0 1"/>
+          <AudioSource name="carpentry_5" translation="617.342 -40.4297 637.388" nodeId="593" fileId="124" range="100" innerRange="30" volume="0.3" loops="0" color="1 0 1"/>
+        </AudioSource>
+      </TransformGroup>
+      <TransformGroup name="environment" nodeId="595">
+        <TransformGroup name="thunder" nodeId="596">
+          <AudioSource name="thunder1" nodeId="597" fileId="125" range="3000" innerRange="2000" volume="1" loops="1" color="0 1 1">
+            <AudioSource name="thunder5" translation="-882.858 0 -780.438" rotation="0 -43.9624 0" nodeId="599" fileId="126" range="3000" innerRange="2000" volume="1" loops="0" color="0 1 1"/>
+            <AudioSource name="thunder2" translation="947.343 0 -257.273" rotation="0 15.1936 0" nodeId="601" fileId="127" range="3000" innerRange="2000" volume="1" loops="0" color="0 1 1"/>
+            <AudioSource name="thunder3" translation="-1003.17 0 926.396" rotation="0 29.2357 0" nodeId="603" fileId="128" range="3000" innerRange="2000" volume="1" loops="0" color="0 1 1"/>
+            <AudioSource name="thunder4" translation="1052.37 0 1139.79" rotation="0 -47.2836 0" nodeId="605" fileId="129" range="3000" innerRange="2000" volume="1" loops="0" color="0 1 1"/>
+          </AudioSource>
+        </TransformGroup>
+        <TransformGroup name="waterfalls" translation="-2126.77 0 -1088.29" nodeId="607">
+          <AudioSource name="waterfall_1" translation="3973.8 118.057 -738.957" nodeId="608" fileId="130" range="100" innerRange="35" volume="0.3" loops="1" color="0 1 1"/>
+          <AudioSource name="waterfall_2" translation="3867.99 82.4042 -531.703" nodeId="610" fileId="131" range="100" innerRange="35" volume="0.3" loops="1" color="0 1 1"/>
+          <AudioSource name="waterfall_3" translation="3115.99 42.259 879.495" nodeId="612" fileId="132" range="100" innerRange="35" volume="0.3" loops="1" color="0 1 1"/>
+          <AudioSource name="waterfall_4" translation="1959.92 4.14046 1455.3" nodeId="614" fileId="133" range="100" innerRange="35" volume="0.3" loops="1" color="0 1 1"/>
+          <AudioSource name="waterfall_5" translation="1077.03 3.67542 1473.97" nodeId="616" fileId="130" range="100" innerRange="35" volume="0.3" loops="1" color="0 1 1"/>
+        </TransformGroup>
+        <TransformGroup name="wind_layers" nodeId="618">
+          <AudioSource name="wind_layer_citadel" translation="-623.375 87.0311 800.461" nodeId="619" fileId="134" range="500" innerRange="400" volume="0.15" loops="1" color="0 1 1"/>
+          <AudioSource name="wind_layer_mountain" translation="1931.12 -188.165 -1813.04" nodeId="621" fileId="135" range="800" innerRange="650" volume="0.15" loops="1" color="0 1 1"/>
+          <AudioSource name="wind_layer_field" translation="-903.683 42.0883 -561.784" nodeId="623" fileId="136" range="750" innerRange="30" volume="0.15" loops="1" color="0 1 1"/>
+          <AudioSource name="wind_layer_leaves_1" translation="0 -929.906 0" nodeId="625" fileId="137" range="15000" innerRange="14000" volume="0.1" loops="1" color="0 1 1">
+            <AudioSource name="wind_layer_leaves_6" translation="1161.83 959.741 -111.701" nodeId="627" fileId="138" range="100" innerRange="30" volume="0.1" loops="0" color="0 1 1"/>
+            <AudioSource name="wind_layer_leaves_2" translation="-135.497 957.112 -48.8554" nodeId="629" fileId="139" range="100" innerRange="30" volume="0.1" loops="1" color="0 1 1"/>
+            <AudioSource name="wind_layer_leaves_3" translation="-1046.1 940.828 566.77" nodeId="631" fileId="140" range="100" innerRange="30" volume="0.1" loops="0" color="0 1 1"/>
+            <AudioSource name="wind_layer_leaves_4" translation="-349.728 935.376 1114.13" nodeId="633" fileId="141" range="100" innerRange="30" volume="0.1" loops="0" color="0 1 1"/>
+            <AudioSource name="wind_layer_leaves_5" translation="1214.33 939.506 1341.71" nodeId="635" fileId="142" range="100" innerRange="30" volume="0.1" loops="0" color="0 1 1"/>
+          </AudioSource>
+        </TransformGroup>
+        <AudioSource name="lake_1" translation="281.453 24.633 -58.4904" nodeId="637" fileId="73" range="100" innerRange="55" volume="0.15" loops="1" color="0 1 1"/>
+        <AudioSource name="lake_1" translation="273.234 4.0365 -170.619" nodeId="639" fileId="73" range="100" innerRange="55" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="-69.6596 5.27234 430.636" nodeId="641" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="220.899 5.51733 207.572" nodeId="643" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="-38.6701 4.03674 279.96" nodeId="645" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="116.975 4.03687 46.61" nodeId="647" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="51.8611 4.03699 280.694" nodeId="649" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="-1131.72 2.40271 398.149" nodeId="651" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="-1211.71 2.40271 448.667" nodeId="653" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="311.895 4.03687 36.0489" nodeId="655" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="142.405 5.82434 172.311" nodeId="657" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="209.457 4.03699 -21.1531" nodeId="659" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+        <AudioSource name="lake_1" translation="-1034.81 2.40271 477.115" nodeId="661" fileId="73" range="30" innerRange="15" volume="0.15" loops="1"/>
+      </TransformGroup>
+      <Camera name="audio_map_view" translation="-5.676 146.186 -32.6649" rotation="-71.8946 13.9802 -2.47454e-07" nodeId="663" fov="60" nearClip="0.1" farClip="10000" orthographic="true" orthographicHeight="2250"/>
+    </TransformGroup>
+  </Scene>
+
+  <UserAttributes>
+    <UserAttribute nodeId="8">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="18">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="28">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="38">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="48">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="58">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="false"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="68">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="7.9"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6.1"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="75">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="9"/>
+      <Attribute name="retriggerMinDelay" type="float" value="4"/>
+    </UserAttribute>
+    <UserAttribute nodeId="81">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="17"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="8"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="9"/>
+      <Attribute name="retriggerMinDelay" type="float" value="4"/>
+    </UserAttribute>
+    <UserAttribute nodeId="85">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="8"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="9"/>
+      <Attribute name="retriggerMinDelay" type="float" value="4"/>
+    </UserAttribute>
+    <UserAttribute nodeId="91">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="15"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="30"/>
+      <Attribute name="retriggerMinDelay" type="float" value="20"/>
+    </UserAttribute>
+    <UserAttribute nodeId="99">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="false"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="6"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="1"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="50"/>
+      <Attribute name="retriggerMinDelay" type="float" value="25"/>
+    </UserAttribute>
+    <UserAttribute nodeId="105">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="false"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="6"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="1"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="50"/>
+      <Attribute name="retriggerMinDelay" type="float" value="25"/>
+    </UserAttribute>
+    <UserAttribute nodeId="111">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="17"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="20"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="119">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="7.9"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6.1"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="123">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="133">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="143">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="153">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="163">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="173">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="183">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="193">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="203">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="213">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="223">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="233">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="243">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="253">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="263">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="273">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="283">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="293">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="303">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="313">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="323">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="333">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="343">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="353">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="false"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="6"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="1"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="50"/>
+      <Attribute name="retriggerMinDelay" type="float" value="25"/>
+    </UserAttribute>
+    <UserAttribute nodeId="359">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="17"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="20"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="367">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="17"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="20"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="375">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="17"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="20"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="383">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="7.9"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6.1"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="388">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="9"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="25"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="404">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="9"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="18"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="25"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="420">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="9"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="25"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="437">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="23"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="19"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="15"/>
+      <Attribute name="retriggerMinDelay" type="float" value="6"/>
+    </UserAttribute>
+    <UserAttribute nodeId="443">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="23"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="19"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="16"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="453">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="23"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="19"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="15"/>
+      <Attribute name="retriggerMinDelay" type="float" value="6"/>
+    </UserAttribute>
+    <UserAttribute nodeId="459">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="23"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="19"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="15"/>
+      <Attribute name="retriggerMinDelay" type="float" value="6"/>
+    </UserAttribute>
+    <UserAttribute nodeId="465">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="true"/>
+      <Attribute name="playHourStart" type="float" value="2"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="467">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="20.1"/>
+      <Attribute name="playHourInverted" type="boolean" value="true"/>
+      <Attribute name="playHourStart" type="float" value="5.5"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="true"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="471">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="600"/>
+      <Attribute name="retriggerMinDelay" type="float" value="60"/>
+    </UserAttribute>
+    <UserAttribute nodeId="473">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreatePolygonChain"/>
+    </UserAttribute>
+    <UserAttribute nodeId="478">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="22"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="6"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="120"/>
+      <Attribute name="retriggerMinDelay" type="float" value="40"/>
+    </UserAttribute>
+    <UserAttribute nodeId="486">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="23"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="130"/>
+      <Attribute name="retriggerMinDelay" type="float" value="30"/>
+    </UserAttribute>
+    <UserAttribute nodeId="492">
+      <Attribute name="autoStop" type="boolean" value="false"/>
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="9.001"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="9"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="494">
+      <Attribute name="autoStop" type="boolean" value="false"/>
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="12.001"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="12"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="496">
+      <Attribute name="autoStop" type="boolean" value="false"/>
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18.001"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="18"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="498">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="9"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="15"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="504">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="18"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="8"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="15"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="513">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="515">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="517">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="519">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="521">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="524">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="526">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="10"/>
+      <Attribute name="retriggerMinDelay" type="float" value="5"/>
+    </UserAttribute>
+    <UserAttribute nodeId="528">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="530">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="19"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="7"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="100"/>
+      <Attribute name="retriggerMinDelay" type="float" value="30"/>
+    </UserAttribute>
+    <UserAttribute nodeId="537">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="15"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="545">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="15"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10"/>
+    </UserAttribute>
+    <UserAttribute nodeId="555">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="20"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="9"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="18000"/>
+      <Attribute name="retriggerMinDelay" type="float" value="10800"/>
+    </UserAttribute>
+    <UserAttribute nodeId="557">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="300"/>
+      <Attribute name="retriggerMinDelay" type="float" value="60"/>
+    </UserAttribute>
+    <UserAttribute nodeId="569">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="12"/>
+      <Attribute name="retriggerMinDelay" type="float" value="8"/>
+    </UserAttribute>
+    <UserAttribute nodeId="583">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="true"/>
+      <Attribute name="playHourEnd" type="float" value="17"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="8"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="10"/>
+      <Attribute name="retriggerMinDelay" type="float" value="6"/>
+    </UserAttribute>
+    <UserAttribute nodeId="597">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="false"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="120"/>
+      <Attribute name="retriggerMinDelay" type="float" value="60"/>
+    </UserAttribute>
+    <UserAttribute nodeId="608">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="610">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="612">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="614">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="616">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="true"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="619">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="621">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="623">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="false"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="625">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="false"/>
+      <Attribute name="playDuringRain" type="boolean" value="false"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="30"/>
+      <Attribute name="retriggerMinDelay" type="float" value="15"/>
+    </UserAttribute>
+    <UserAttribute nodeId="637">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="639">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="641">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="643">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="645">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="647">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="649">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="651">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="653">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="655">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="657">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="659">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+    <UserAttribute nodeId="661">
+      <Attribute name="onCreate" type="scriptCallback" value="AmbientSoundUtil.onCreateSoundNode"/>
+      <Attribute name="playByDay" type="boolean" value="true"/>
+      <Attribute name="playByNight" type="boolean" value="true"/>
+      <Attribute name="playDuringHail" type="boolean" value="true"/>
+      <Attribute name="playDuringRain" type="boolean" value="true"/>
+      <Attribute name="playDuringSun" type="boolean" value="true"/>
+      <Attribute name="playExterior" type="boolean" value="true"/>
+      <Attribute name="playHour" type="boolean" value="false"/>
+      <Attribute name="playHourEnd" type="float" value="0"/>
+      <Attribute name="playHourInverted" type="boolean" value="false"/>
+      <Attribute name="playHourStart" type="float" value="0"/>
+      <Attribute name="playInsideBuilding" type="boolean" value="false"/>
+      <Attribute name="playInterior" type="boolean" value="false"/>
+      <Attribute name="retriggerMaxDelay" type="float" value="0"/>
+      <Attribute name="retriggerMinDelay" type="float" value="0"/>
+    </UserAttribute>
+  </UserAttributes>
+
+</i3D>

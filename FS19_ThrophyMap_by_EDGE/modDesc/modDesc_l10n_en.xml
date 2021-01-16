@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+<author>Edge Gaming / Castiga</author>
+<translationby>Castiga</translationby>
+	<texts>
+		<text name="POPPY" 								text="Poppy Seeds"/>
+		<text name="POPPY_FLOWER" 						text="Poppy Flower"/>
+		<text name="desc_poppy" 						text="Poppy Seeds is a Fruit, mostly used in making Bread."/>
+        <text name="LUMBERYARD"    						text="Lumberyard"/>
+        <text name="action_toggleFillmark" 				text="Fillmark on/off"/>
+			<!--Mission Titles-->
+		<text name="BOTTLE_DELIVERY" 					text="Bottle Delivery"/>
+		<text name="HARDWARE_DELIVERY" 					text="Hardware Delivery"/>
+		<text name="WATER_DELIVERY" 					text="Water Delivery"/>
+		<text name="FOOD_DELIVERY" 						text="Food Delivery"/>
+		<text name="SUGAR_MILL_DELIVERY" 				text="Sugar Mill Delivery"/>
+		<text name="MIX_DELIVERY" 						text="Moxed Goods Delivery"/>
+		<text name="CORPORATE_DELIVERY" 				text="Corporate Delivery"/>
+		<text name="SEEDFERTILIZER_DELIVERY" 			text="Seed & Fertilizer Delivery"/>
+		<text name="COMPUTER_DELIVERY" 					text="Computer Delivery"/>
+		<text name="BROKEN_COMPUTER_DELIVERY" 			text="Broken Computer Delivery"/>
+		<text name="BEER_DELIVERY" 						text="Beer Delivery"/>
+		<text name="BALE_DELIVERY" 						text="Bale Delivery"/>
+		<text name="MACHINERY_DELIVERY" 				text="Machinery Delivery"/>
+			<!--Mission Locations-->
+        <text name="tm_distillery" 						text="Distillery"/>
+        <text name="tm_Trashyard" 						text="Trashyard"/>
+        <text name="tm_minimarket" 						text="Mini Market"/>
+        <text name="tm_EDGE" 							text="EDGE Industries"/>
+        <text name="tm_Beach" 							text="Beach Property"/>
+        <text name="tm_mill" 							text="The Mill"/>
+        <text name="tm_Limagrain" 						text="LimaGrain"/>
+        <text name="tm_Lemonways" 						text="Lemonways"/>
+        <text name="tm_Oceanbeach" 						text="Ocean Beach Kitchen"/>
+			<!--Locations-->
+	    <text name="LUMBERYARD"    						text="Lumberyard"/>
+		<!-- Objects -->
+        <text name="shopItem_liquidManureStorage"          text="Slurry storage" />
+        <text name="shopItem_manureStorage"                text="Manure storage" />
+        <text name="shopItem_buyingStation_compost"        text="Compost loading point" />
+        <text name="shopItem_sellStation_compost"          text="Composting unloading point" />
+        <!-- Actions -->
+        <text name="action_openRolldoor"                   text="open roller door" />
+        <text name="action_closeRolldoor"                  text="close roller door" />
+        <text name="action_openBigdoor"                    text="open door" />
+        <text name="action_closeBigdoor"                   text="close door" />
+        <text name="action_lightOn"                        text="switch light on" />
+        <text name="action_lightOut"                       text="switch light off" />
+        <text name="action_openWind"                       text="open windshield" />
+        <text name="action_closeWind"                      text="close windshield" />
+        <text name="action_machineOn"                      text="turn on the plant" />
+        <text name="action_machineOff"                     text="turn off the plant" />
+        <text name="action_chglngf"                        text="change language" />
+        <text name="action_chglngb"                        text="change language" />
+        <text name="ui_vehicleReset"                       text="The vehicle / device has been reset to the dealer." />
+        <!-- Filltypes -->
+        <text name="fillType_wetClover"                    text="Clover fresh" />
+        <text name="fillType_clover"                       text="Clover" />
+        <text name="fillType_semiDryClover"                text="Clover semi-dry" />
+        <text name="fillType_dryClover"                    text="Clover hay" />
+        <text name="fillType_clover_fermented"             text="Clover silage" />
+        <text name="fillType_clover_roundBale"             text="Clover" />
+        <text name="fillType_dryClover_roundBale"          text="Clover hay" />
+        <text name="fillType_wetAlfalfa"                   text="Alfalfa fresh" />
+        <text name="fillType_alfalfa"                      text="Alfalfa" />
+        <text name="fillType_semiDryAlfalfa"               text="Alfalfa semi-dry" />
+        <text name="fillType_dryAlfalfa"                   text="Alfalfa hay" />
+        <text name="fillType_alfalfa_fermented"            text="Alfalfa silage" />
+        <text name="fillType_alfalfa_roundBale"            text="Alfalfa" />
+        <text name="fillType_dryAlfalfa_roundBale"         text="Alfalfa hay" />
+        <text name="fillType_rye"                          text="Rye" />
+        <text name="fillType_millet"                       text="Millet" />
+        <text name="fillType_triticale"                    text="Triticale" />
+        <text name="fillType_compost"                      text="Compost" />
+        <text name="fillType_carrot"                       text="Carrots" />
+        <text name="fillType_onion"                        text="Onions" />
+        <text name="fillType_field_grass"                  text="Fieldgrass" />
+        <text name="fillType_spelt"                        text="Spelt" />
+        <text name="fillType_crop_windrow"                 text="Cropswath" />
+        <text name="fillType_miscanthus"                   text="Miscanthus" />
+        <text name="fillType_pastureGrass"                 text="Pasturegrass" />
+        <text name="fillType_wetHorseGrass"                text="Horsegrass fresh" />
+        <text name="fillType_horseGrass"                   text="Horsegrass" />
+        <text name="fillType_semiDryHorseGrass"            text="Horsehay semi-dry" />
+        <text name="fillType_dryHorseGrass"                text="Horse hay" />
+        <text name="fillType_horseGrass_fermented"         text="Horse silage" />
+        <text name="fillType_wetGrass"                     text="Grass fresh" />
+        <text name="fillType_semiDryGrass"                 text="Grass semi-dry" />
+        <text name="fillType_grass_fermented"              text="Grass silage" />
+        <text name="fillType_grass_roundBale"              text="Grass" />
+        <text name="fillType_dryGrass_roundBale"           text="Hay" />
+        <text name="fillType_ccmraw"                       text="Raw CCM (corn flour)" />
+        <text name="fillType_ccm"                          text="CCM" />
+        <!-- sellingStations -->
+        <text name="station_farmersMarket"                 text="Gardencenter" />
+        <text name="station_limeStation"                   text="Lime station" />
+        <text name="station_bga"                           text="Biogas Plant" />
+        <text name="station_milk"                          text="Dairy" />
+        <text name="station_campsite"                      text="Campsite" />
+        <text name="station_grainmill"                     text="Grain mill" />
+        <text name="station_watermill"                     text="Water mill" />
+        <text name="station_brewery"                       text="Brewery" />
+        <text name="station_fodderShop"                    text="Fodder shop" />
+        <text name="station_toom"                          text="TOOM DIY market" />
+        <text name="station_RaiffeisenGrain"               text="Raiffeisen Grain" />
+        <text name="station_RaiffeisenBales"               text="Raiffeisen Bales" />
+        <text name="station_mcCain"                        text="McCain Potatoes" />
+        <text name="station_compost_unloading"             text="Composting unloading point" />
+        <text name="station_sugar"                         text="South Sugar" />
+        <text name="station_BioMassHeating"                text="Heating plant" />
+        <text name="station_woodchips"                     text="Sawmill" />
+        <!--buyingStations-->
+        <text name="station_muehle"                        text="Grain mill" />
+        <text name="station_gardencenter_fert"             text="Gardencenter fertilizer" />
+        <text name="station_gardencenter_seeds"            text="Gartencenter seeds" />
+        <text name="station_Raiffeisen_fert"               text="Raiffeisen fertilizer" />
+        <text name="station_Raiffeisen_seeds"              text="Raiffeisen seeds" />
+        <text name="station_feedStore"                     text="Fodder shop" />
+        <text name="station_compost_loading"               text="Composting loading point" />
+        <!-- Hot Spots -->
+        <text name="hotSpot_farmersMarket"                 text="Gardencenter" />
+        <text name="hotSpot_limeStation"                   text="Lime station" />
+        <text name="hotSpot_biogasPlant"                   text="Biogas Plant" />
+        <text name="hotSpot_centerDepot"                   text="Center Depot" />
+        <text name="hotSpot_slurryStorage"                 text="Slurry Storage" />
+        <text name="hotSpot_campsite"                      text="Campsite" />
+        <text name="hotSpot_grainmill"                     text="Grain mill" />
+        <text name="hotSpot_watermill"                     text="Water mill" />
+        <text name="hotSpot_dairy"                         text="Dairy" />
+        <text name="hotSpot_brewery"                       text="Brewery" />
+        <text name="hotSpot_fodderShop"                    text="Fodder shop" />
+        <text name="hotSpot_sawmill"                       text="Sawmill" />
+        <text name="hotSpot_toom"                          text="DIY market" />
+        <text name="hotSpot_animalShop"                    text="Animal Dealer" />
+        <text name="hotSpot_Raiffeisen"                    text="Raiffeisen" />
+        <text name="hotSpot_mcCain"                        text="McCain" />
+        <text name="hotSpot_supermarket"                   text="Supermarket" />
+        <text name="hotSpot_compost"                       text="Composting Plant" />
+        <text name="hotSpot_sugar"                         text="South Sugar" />
+        <text name="hotSpot_BioMassHeating"                text="Heating plant" />
+        <!-- Mixer -->
+        <text name="station_forager"                       text="TMR manufacturing" />
+        <text name="function_forager"                      text="Straw 20%+ hay 50%+ silage 30% = TMR Production" />
+        <text name="station_pigFeeder"                     text="Pig feed manufacturing" />
+        <text name="function_pigFeeder"                    text="Maize 50%+ Root Crops 25%+ Oilseed 20%+ Grain 5% = Pigfeed Production" />
+        <!-- Mods -->
+        <text name="function_multiTank"                    text="This tank trailer can be used to transport all types of liquids. Vehicles, equipment and storages can be filled." />
+        <text name="function_multiPalletPacker"            text="With this machine, potatoes, sugar beets, onions or carrots are packed in pallets for sale or loaded onto conveyor belts." />
+        <text name="function_multiWrapper"                 text="The bale wrapper wraps the bales of all grasses in foil so that they can ferment into silage." />
+        <text name="function_multiBaler"                   text="This baler presses straw as well as all grasses and their hay into bales." />
+        <text name="function_multiStacker"                 text="This bale collector loads all types of round bales and facilitates their transportation." />
+        <text name="configuration_carrot"                  text="for carrots" />
+        <text name="configuration_onion"                   text="for onions" />
+        <text name="name_HR_12_Carrot"                     text="HR 12 for carrots" />
+        <text name="name_HR_12_Onion"                      text="HR 12 for onions" />
+        <text name="name_KS_75-4_Carrot"                   text="KS 75-4 for carrots" />
+        <text name="name_KS_75-4_Onion"                    text="KS 75-4 for onions" />
+        <text name="name_SE_260_Carrot"                    text="SE 260 for carrots" />
+        <text name="name_SE_260_Onion"                     text="SE 260 for onions" />
+        <text name="function_haulmTopperCarrot"            text="This haulm topper removes the haulm before carrots can be harvested." />
+        <text name="function_haulmTopperOnion"             text="This haulm topper removes the haulm before onions can be harvested." />
+        <text name="function_harvestingCarrotWithoutPreparer" text="This harvester digs the carrots out of the ground. This machine can only be used after the haulm has been cut." />
+        <text name="function_harvestingOnionWithoutPreparer"  text="This harvester digs the onions out of the ground. This machine can only be used after the haulm has been cut." />
+        <text name="function_mowerConditioner"             text="This mower has also installed a conditioner. This means that the mown is immediately dried." />
+        <!--LandScapePaintText-->
+        <text name="groundtype_dirt"                         text="dirt" />
+        <text name="groundtype_asphalt"                      text="asphalt" />
+        <text name="groundtype_gravel"                       text="gravel" />
+        <text name="groundtype_grass"                        text="grass + grass st.2" />
+        <text name="groundtype_grass_town"                   text="lawn + grass st.2" />
+        <text name="groundtype_grass_rough"                  text="rough grass + grass st.2" />
+        <text name="groundtype_bush1"                        text="grass + bush st.1" />
+        <text name="groundtype_bush2"                        text="grass + bush st.2" />
+        <text name="groundtype_bush3"                        text="grass + bush st.3" />
+        <text name="groundtype_bush4"                        text="grass + bush st.4" />
+        <text name="groundtype_deco1"                        text="grass + deco 1" />
+        <text name="groundtype_deco2"                        text="grass + deco 2" />
+        <text name="groundtype_deco3"                        text="grass + deco 3" />
+        <text name="groundtype_deco4"                        text="grass + deco 4" />
+        <text name="groundtype_deco5"                        text="grass + deco 5" />
+        <text name="groundtype_deco6"                        text="grass + deco 6" />
+        <text name="groundtype_deco7"                        text="grass + deco 7" />
+        <text name="groundtype_deco8"                        text="grass + deco 8" />
+        <text name="groundtype_deco9"                        text="grass + deco 9" />
+        <text name="groundtype_deco10"                       text="grass + deco 10" />
+        <text name="groundtype_deco11"                       text="grass + deco 11" />
+        <text name="groundtype_sand"                         text="sand" />
+        <text name="groundtype_animalMud"                    text="animal mud" />
+        <text name="groundtype_vehicleMud"                   text="vehicle mud" />
+        <text name="groundtype_concrete"                     text="concrete" />
+        <text name="groundtype_forestLeaf"                   text="forestground leafs" />
+        <text name="groundtype_forestNeedle"                 text="forestground needles" />
+        <text name="groundtype_rock"                         text="rock" />
+        <text name="groundtype_rock_dark"                    text="dark rock" />
+        <text name="groundtype_platedamaged"                 text="damaged plate" />
+        <text name="groundtype_sandrough"                    text="rough sand" />
+        <text name="groundtype_beachsand"                    text="beachsand" />
+        <text name="groundtype_cobblestone"                  text="cobblestone" />
+        <text name="groundtype_roughMud"                     text="rough mud" />
+        <text name="groundtype_puddle"                       text="puddle" />
+        <text name="groundtype_vehmudpuddle"                 text="mud puddle" />
+        <!--SeasonsMission1-->
+        <text name="loc01"                                   text="BGA" />
+        <text name="snow01"                                  text="The BGA is filled with snow. Our clients can't safely get to the silage or the sellpoint. Please clear out the whole lot." />
+        <!--SeasonsMission2-->
+        <text name="loc02"                                   text="Fire Department" />
+        <text name="snow02"                                  text="The Fire trucks can't get out. Snow is blocking the Fire department. Please clear out the whole lot." />
+        <!--SeasonsMission3-->
+        <text name="loc03"                                   text="Gardencenter" />
+        <text name="snow03"                                  text="People can't get to the Gardencenter. The parking lot is filled with snow. Please clear out the snow for us." />
+        <!--SeasonsMission4-->
+        <text name="loc04"                                   text="Lime station" />
+        <text name="snow04"                                  text="Customers can't reach Lime station. Please clear out the snow." />
+        <!--SeasonsMission5-->
+        <text name="loc05"                                   text="Sheep farm" />
+        <text name="snow05"                                  text="The yard at my sheep farm is filled with snow. I can't get to my animals. Please clear out the snow for me." />
+        <!--SeasonsMission6-->
+        <text name="loc06"                                   text="Horse stable" />
+        <text name="snow06"                                  text="Cars are getting stuck in the snow at the Horse stable. Can you clear the roads for snow?" />
+        <!--SeasonsMission7-->
+        <text name="loc07"                                   text="Water mill" />
+        <text name="snow07"                                  text="The road to the Water mill is blocked with snow. Can you please clear it?" />
+        <!--SeasonsMission8-->
+        <text name="loc08"                                   text="Campsite" />
+        <text name="snow08"                                  text="Deleveries can't make it to the Camping site because of snow. Please clear a path." />
+        <!--SeasonsMission9-->
+        <text name="loc09"                                   text="Cowzone" />
+        <text name="snow09"                                  text="I can't get to my cows. Can you please clear a path to the Cow stable?" />
+        <!--SeasonsMission10-->
+        <text name="loc10"                                   text="Pigzone" />
+        <text name="snow10"                                  text="I can't get to my pigs. Can you please clear a path to the Pig stable?" />
+        <!--SeasonsMission11-->
+        <text name="loc11"                                   text="Compost plant" />
+        <text name="snow11"                                  text="The roads at the Compost plant is slippery due to snow. Can you please clear them out?" />
+        <!--SeasonsMission12-->
+        <text name="loc12"                                   text="Supermarket" />
+        <text name="snow12"                                  text="The parkinglot at the supermarket is filled with snow. Please clear it." />
+        <!--SeasonsMission13-->
+        <text name="loc13"                                   text="Dairy" />
+        <text name="snow13"                                  text="The milktruck can't unload milk due to snow. Please clear the lot." />
+        <!--SeasonsMission14-->
+        <text name="loc14"                                   text="Butcher" />
+        <text name="snow14"                                  text="Customers can't get to the Butcher. Please clear out the snow." />
+        <!--SeasonsMission15-->
+        <text name="loc15"                                   text="Animal dealer" />
+        <text name="snow15"                                  text="Livestock trailers are getting stuck in the snow at the Animal dealer. Please clear out the roads." />
+        <!--SeasonsMission16-->
+        <text name="loc16"                                   text="Gas station" />
+        <text name="snow16"                                  text="It's almost impossible for customers to refuel. Please clear the lot for snow." />
+        <!--SeasonsMission17-->
+        <text name="loc17"                                   text="Vehicle shop" />
+        <text name="snow17"                                  text="The Vehicle shop parking lot is filled with snow. Please clear it." />
+        <!--SeasonsMission18-->
+        <text name="loc18"                                   text="TOOM DIY market" />
+        <text name="snow18"                                  text="The DIY market is covered in snow. Please clear the lot." />
+        <!--helpLine-->
+        <text name="helpCategory_Eiersholt_0"                text="Introduction" />
+        <text name="helpCategory_Eiersholt_1"                text="Starting out" />
+        <text name="helpCategory_Eiersholt_2"                text="Additional information" />
+        <text name="helpCategory_Eiersholt_inclMods"         text="Included mods" />
+        <text name="helpCategory_Eiersholt_common"           text="General information" />
+        <text name="helpCategory_Eiersholt_additionalFruits" text="Additional fruits on the map" />
+        <text name="helpCategory_Eiersholt_places"           text="Buying and selling stations 1" />
+        <text name="helpCategory_Eiersholt_places1"          text="Buying and selling stations 2" />
+        <text name="helpCategory_Eiersholt_animals"          text="Animals" />
+        <text name="helpCategory_Eiersholt_chicken"          text="Chickens" />
+        <text name="helpCategory_Eiersholt_cow"              text="Cows" />
+        <text name="helpCategory_Eiersholt_pig"              text="Pigs" />
+        <text name="helpCategory_Eiersholt_horse"            text="Horses" />
+        <text name="helpCategory_Eiersholt_sheep"            text="Sheep" />
+        <text name="helpCategory_Eiersholt_store"            text="External stoages and workshop" />
+        <text name="helpCategory_Eiersholt_centerDepot"      text="Center Depot" />
+        <text name="helpCategory_Eiersholt_slurry"           text="Slurry storage" />
+        <text name="helpCategory_Eiersholt_workshop"         text="Workshop and fuelstation at the mainfarm" />
+        <text name="helpCategory_Eiersholt_mods"             text="Recommended mods" />
+        <text name="helpCategory_Eiersholt_mod1"             text="MaizePlus and extensions" />
+        <text name="helpCategory_Eiersholt_mod2"             text="Seasons 19" />
+        <text name="helpCategory_Eiersholt_mod3"             text="Addon strawharvest" />
+        <text name="helpCategory_Eiersholt_mod4"             text="Animal Pen Extension" />
+        <text name="helpCategory_Eiersholt_mod5"             text="Manure system" />
+
+        <text name="helpText_Eiersholt_empty"                text=" " />
+
+        <text name="helpText_Eiersholt_0" text="The player should be familiar with the basic functions of the game, as the standard basic help screen is not shown here." />
+        <text name="helpText_Eiersholt_1" text="This map is completely playable without any mods." />
+        <text name="helpText_Eiersholt_2" text="However, in order to enjoy all functions to the fullest, some mods are required." />
+        <text name="helpText_Eiersholt_3" text="Many players will already know most of the recommended mods, as they add a lot of realism to Farming Simulator 19." />
+        <text name="helpText_Eiersholt_4" text="Which these mods are is briefly explained in the chapter 'Recommended Mods'. How they work in detail is not discussed further here." />
+
+        <text name="helpText_Eiersholt_f1" text="But first of all some information about the main farm." />
+        <text name="helpText_Eiersholt_f2" text="In New farmer mode you already have various vehicles, storage facilities and silos available from the start of the game." />
+        <text name="helpText_Eiersholt_f3" text="The silos are already filled with a small amount of Fruit, Fertilizer, Seeds and Lime to make the start a little easier." />
+        <text name="helpText_Eiersholt_f4" text="The Fertilizer, Seeds and Lime silos will have to be refilled manually. To fill the silos the flaps must be opened." />
+        <text name="helpText_Eiersholt_f5" text="You own enough equipment and land to get you started, but it is recommended to upgrade to more effecient equipment so you can continue to grow the farm." />
+
+        <text name="helpText_Eiersholt_f6" text="There is a tank in the yard that is kindly filled automatically by the Raiffeisen market. Here you can buy liquid fertilizers and herbicides directly." />
+
+        <text name="helpText_Eiersholt_5" text="The map contains some adapted mods, especially for the extensions by MaizePlus but they are also needed for the additional fruits." />
+        <text name="helpText_Eiersholt_6" text=" " />
+        <text name="helpText_Eiersholt_7" text="These are in detail:" />
+        <text name="helpText_Eiersholt_8" text="- Grimme KS75 - A haulm topper available for both carrots and onions." />
+        <text name="helpText_Eiersholt_9" text="- Grimme SE260 - A harvester, also available for both carrots and onions." />
+        <text name="helpText_Eiersholt_10" text="- Grimme RH2460 - A palletizer for carrots, onions, potatoes and sugar beets." />
+        <text name="helpText_Eiersholt_11" text="- Holmer TerraDos T4 40 - harvester for carrots, onions, potatoes and sugar beets." />
+        <text name="helpText_Eiersholt_12" text="- Holmer HR12 - An attachment for the TerraDos, for carrots and also for onions available." />
+        <text name="helpText_Eiersholt_13" text="- Kuhn FBP3135 - A baling / wrapping combination for all grass and straw with additional foil colors." />
+        <text name="helpText_Eiersholt_14" text="- Kuhn SW4014 - A bale wrapper for wrapping all bales with additional foil colors." />
+        <text name="helpText_Eiersholt_15" text="- NH Discbine313, Pöttinger NovaCat301 and X8 and Krone BigM450 - mowers with additional conditioner." />
+        <text name="helpText_Eiersholt_16" text="		These allow you to skip a drying stage directly while mowing." />
+        <text name="helpText_Eiersholt_17" text="- Ursus T127 - An additional bale collector." />
+        <text name="helpText_Eiersholt_18" text="- Ursus Z586 - Another bale wrapper, also with additional foil colors." />
+        <text name="helpText_Eiersholt_19" text="- Lizard MKS8 and MKS32 - These tankers can transport all liquids. Vehicles, equipment and storages can be filled." />
+        <text name="helpText_Eiersholt_20" text="		Various colors can also be configured." />
+
+        <text name="helpText_Eiersholt_21" text="In addition to all standard fruits, the following fruits are available:" />
+        <text name="helpText_Eiersholt_22" text=" " />
+        <text name="helpText_Eiersholt_23" text="- Grains: Rye, Millet, Spelt and Triticale" />
+        <text name="helpText_Eiersholt_24" text="- Root crops: Carrots and Onions" />
+        <text name="helpText_Eiersholt_25" text="- Grasses:" />
+        <text name="helpText_Eiersholt_26" text="		Alfalfa - When cut it will produce Alfalfa fresh which can be baled into alfalfa bales. These bales can be wrapped and turned into Silage. Alfalfa fresh can also be tedded and turned into Alfalfa hay." />
+        <text name="helpText_Eiersholt_27" text="		Clover - Fresh cut clover can be baled into clover bales, or baled and wrapped and turned into Silage, or it can be tedded and turned into Clover hay." />
+        <text name="helpText_Eiersholt_28" text="		Field grass - This is a tall grass that can be cut and turned into normal grass and hay, or can be harvested during the second year of growth using a combine harvester (using Seasons and M+ HE). Doing so will get you Fieldgrass seeds which can be sold. You will also get Horsegrass semi-dry which can be baled and wrapped to make Horsesilage." />
+        <text name="helpText_Eiersholt_29" text="		Pasture grass - It works like normal grass. It can be mowed, turned into hay or fermented into silage in the bunker silo." />
+        <text name="helpText_Eiersholt_30" text="		Horse grass - Horsegrass can be cut and turned into Horse hay. Horsegrass can also be turned into silage in the bunker silo. Wrapping a bale of Horsegrass semi-dry (tedded twice) will give you Horse silage." />
+        <text name="helpText_Eiersholt_31" text="		Miscanthus - Miscanthus can be cut using a forage harvester." />
+        <text name="helpText_Eiersholt_32" text="Compost can be used for fertilization." />
+
+        <text name="helpText_Eiersholt_33" text="Garden center - In addition to Grain, Wool, Eggs, etc. Slurry can also be sold here, as well as Fertilizer, Herbicide and Seeds can be bought." />
+        <text name="helpText_Eiersholt_34" text="Dairy - In addition to Milk, of course, Spelt, Soybeans and Oats can also be delivered here." />
+        <text name="helpText_Eiersholt_35" text="Campsite - In the search for consistently high-quality products, campers always buy Milk, Eggs, Potatoes, Carrots and Onions." />
+        <text name="helpText_Eiersholt_36" text="Grain Mill - All types of grain can be sold here." />
+        <text name="helpText_Eiersholt_37" text="Watermill - As with the grain mill, all types of grain are accepted here." />
+        <text name="helpText_Eiersholt_38" text="Brewery - Wheat, Barley, Spelt, Oats and even Sugar cane are fermented here to make something drinkable." />
+        <text name="helpText_Eiersholt_39" text="Fodder shop - In addition to various silages, almost everything that is needed for feed production is traded here." />
+        <text name="helpText_Eiersholt_40" text="		Also in bale form, of course." />
+        <text name="helpText_Eiersholt_41" text="TOOM - In addition to Wool and Wood chips, the DIY market also buys Miscanthus and Field grass." />
+        <text name="helpText_Eiersholt_42" text="Raiffeisen - At this sell point, you can really sell anything the map can offer. Also as a bale." />
+        <text name="helpText_Eiersholt_43" text="Fertilizer, Herbicide and Seeds can also be purchased here." />
+        <text name="helpText_Eiersholt_44" text="McCain - In addition to Potatoes, Onions can be sold here." />
+        <text name="helpText_Eiersholt_45" text="South Sugar - In addition to Sugar beets, Sugar cane can be sold here." />
+        <text name="helpText_Eiersholt_46" text="Sawmill - Of course, tree trunks are accepted here. But also Miscanthus and Wood chips." />
+        <text name="helpText_Eiersholt_47" text="		The latter can also be bought here." />
+
+        <text name="helpText_Eiersholt_48" text="Composting plant - In addition to buying Compost, it is also possible to sell this again besides various other fruits." />
+        <text name="helpText_Eiersholt_49" text="BGA - Of course, chopped material and grass can be fermented into silage here, which can then be profitably filled into the BGA." />
+        <text name="helpText_Eiersholt_50" text="		Any digestate can of course also be loaded." />
+        <text name="helpText_Eiersholt_51" text="Heating plant - heating power from biomass, so Straw, Wood chips and Miscanthus can be sold here." />
+        <text name="helpText_Eiersholt_52" text="Lime station - As the name suggests, Lime can be purchased here." />
+        <text name="helpText_Eiersholt_53" text="Supermarket - The supermarket buys all Root crops, Eggs, Milk as well as Sheep wool and Cotton." />
+        <text name="helpText_Eiersholt_54" text="Animal dealer - As the name suggests, animals can be bought here and brought to the stables yourself. Of course, the dealer also buys animals." />
+
+        <text name="helpText_Eiersholt_55" text="The Chicken coop is owned by the player from the start of the game when playing in New Farmer mode." />
+        <text name="helpText_Eiersholt_56" text="Nothing has changed in terms of the actual function." />
+        <text name="helpText_Eiersholt_57" text="However, at the tipping area, which needs to be cleaned from time to time, Wheat, Triticale, Rye," />
+        <text name="helpText_Eiersholt_58" text="Soybeans, Corn, Barley and Millet as well as Sugar beets and Carrots can be delivered." />
+
+        <text name="helpText_Eiersholt_59" text="Even though the cowshed is located at the main farmyard, it is not in the player's possession at the start of the game." />
+        <text name="helpText_Eiersholt_60" text="In order to be able to use it and a few associated buildings, the area must first be purchased. Doors will not open if you don't own the area the building is located on." />
+        <text name="helpText_Eiersholt_61" text="A feed mixing plant also belongs to the cow area." />
+        <text name="helpText_Eiersholt_62" text="If you put Straw (20%), Silage (30%) and Hay (50%) into the feed mixer, you get TMR." />
+        <text name="helpText_Eiersholt_63" text="Straw, as well as Grass, Hay and Silage can also be fed to the cows as bales." />
+        <text name="helpText_Eiersholt_64" text="Of course, the cows also litter the barn a little, so it should be mucked out from time to time." />
+
+        <text name="helpText_Eiersholt_65" text="The pigsty is not owned by the player at the beginning of the game." />
+        <text name="helpText_Eiersholt_66" text="Once you have acquired it, you are able to open the doors and use the pigstable. You also have access to the neighboring hall, in which e.g. fruits can be stored." />
+        <text name="helpText_Eiersholt_67" text="A feed mixing plant that produces pig feed is also acquired here." />
+        <text name="helpText_Eiersholt_68" text="To get pig feed you need to fill it with Maize (50%), Wheat, Barley, Triticale or Rye (25%), Soybeans, Rape or Sunflower (20%)" />
+        <text name="helpText_Eiersholt_69" text="as well as Potatoes, Sugar beets or Carrots (5%)" />
+        <text name="helpText_Eiersholt_70" text="In the pigs stable straw or straw bales can be used directly for bedding." />
+        <text name="helpText_Eiersholt_71" text="The pigsty needs to be cleaned out every now and then." />
+
+        <text name="helpText_Eiersholt_72" text="In order to be able to breed and keep horses, the area with the Horse paddock must be purchased." />
+        <text name="helpText_Eiersholt_73" text="In addition to Oats, horses need Grass or Horse silage as well as Hay and Carrots." />
+        <text name="helpText_Eiersholt_74" text="Grass, Straw, Hay and Silage can also be fed as bales." />
+        <text name="helpText_Eiersholt_75" text="If the horses are adequately cared for, they produce manure. The stable itself does not have to be mucked out." />
+        <text name="helpText_Eiersholt_76" text="Our hard-working helpers take care of that, so to speak." />
+
+        <text name="helpText_Eiersholt_77" text="The sheep farm has to be bought, should you decide to start wool production." />
+        <text name="helpText_Eiersholt_78" text="The sheep do not produce manure, nor do they have to be mucked out. Only the feeding area should be kept clean." />
+        <text name="helpText_Eiersholt_79" text="This is where Silage, Hay, Grass, Sugar beets and Carrots can be tipped or deposited in bales." />
+        <text name="helpText_Eiersholt_80" text="If the animals are adequately cared for, nothing stands in the way of wool production." />
+
+        <text name="helpText_Eiersholt_81" text="With the exception of cotton wool, all fruit can be stored in the Center Depot." />
+        <text name="helpText_Eiersholt_82" text="In the centrally located round roof halls Wood chips, Sugar beets and Potatoes can be stored." />
+        <text name="helpText_Eiersholt_83" text="Sugarcane, Carrots and Onions can be stored on the front of the building opposite of the round roof halls." />
+        <text name="helpText_Eiersholt_84" text="The barn next to it accepts Straw and all kinds of Grass and Hay." />
+        <text name="helpText_Eiersholt_85" text="Wheat, Barley, Oats and Rye can be stored in the large buildings that follows." />
+        <text name="helpText_Eiersholt_86" text="In the building complex on the left side of the entrance area, Rape, Maize, Sunflowers," />
+        <text name="helpText_Eiersholt_87" text="Soybeans, Millet, Triticale and Field grass can be stored." />
+        <text name="helpText_Eiersholt_88" text="Last but not least, there is a Manure storage area in the upper left corner, where Compost can also be stored." />
+
+        <text name="helpText_Eiersholt_89" text="Since there is not enough space on the premises of the Center Depot, the Slurry storage facility had to be located externally." />
+        <text name="helpText_Eiersholt_90" text="In addition to Liquid manure, Digestate can also be temporarily stored here." />
+        <text name="helpText_Eiersholt_PS" text="The areas of the Center Depot and slurry storage facility cannot be purchased and are available to all players at any time." />
+
+        <text name="helpText_Eiersholt_91" text="There is a small workshop with an attached fuel station on the premises of the main farmyard." />
+        <text name="helpText_Eiersholt_92" text="This area must also be bought in order to be able to use it. The fuel station is excluded from this." />
+        <text name="helpText_Eiersholt_93" text="However, you have to fill it yourself." />
+
+        <text name="helpText_Eiersholt_94" text="MaizePlus is a global expansion that gives the player the opportunity to produce corn silage and grass silage as bales," />
+        <text name="helpText_Eiersholt_95" text="as well as using both silages in the driving silo and for feeding." />
+        <text name="helpText_Eiersholt_96" text="In addition, you can also use the extension file (MaizePlus_ccmExtension) to produce raw CCM (corn flour) and CCM." />
+        <text name="helpText_Eiersholt_97" text="The Forage Extension completely revises the feeding system in the FS. On the one hand, the division of the different silages" />
+        <text name="helpText_Eiersholt_98" text="by MaisPlus is taken into account during feeding, on the other hand, the feeding system is also generally" />
+        <text name="helpText_Eiersholt_99" text="being redesigned, so that it becomes a little more interesting and maybe more realistic." />
+
+        <text name="helpText_Eiersholt_100" text="The Seasons Mod changes the basic way of playing the Farming Simulator, introducing the seasons and" />
+        <text name="helpText_Eiersholt_101" text="all aspects of gameplay, such as weather, growth, economy, maintenance of vehicles and animals, will be adjusted accordingly." />
+
+        <text name="helpText_Eiersholt_102" text="Expand your agricultural business with the pelletizing of straw materials and increase productivity with the" />
+        <text name="helpText_Eiersholt_103" text="powerful machines from KRONE as well as from Bressel and Lade." />
+
+        <text name="helpText_Eiersholt_104" text="This global script extends the standard animal pens and the supported modded pens by the following functions:" />
+        <text name="helpText_Eiersholt_105"  text="- Water add-on - For a small purchase fee, your local plumber will build a water pipe with which you can easily" />
+        <text name="helpText_Eiersholt_106" text="		ensure the water supply for your animals." />
+        <text name="helpText_Eiersholt_107" text="- Milk Addon - Are you too busy to deliver your cow's milk to the dealer yourself? For a small fee, you can ask " />
+        <text name="helpText_Eiersholt_108" text="		a local contractor to do this for you at the best available rate. Let's just hope there aren't any" />
+        <text name="helpText_Eiersholt_109" text="		incidents preventing the sale from happening when they want it to." />
+        <text name="helpText_Eiersholt_110" text="- Chicken Addon - After careful research, the local farmers have decided that they should be giving their chickens" />
+        <text name="helpText_Eiersholt_111" text="		water too, it's only fair. Your chicken pens now have a water trough." />
+
+        <text name="helpText_Eiersholt_112" text="The manure system changes the whole gameplay experience in handling slurry. Find out what it means to pump slurry as a real farmer." />
+        <text name="helpText_Eiersholt_113" text="Use the filling arms to pump from open containers such as field edge containers, slurry basins and water basins." />
+        <text name="helpText_Eiersholt_114" text="Use a special filling arm to suck in from the docking station, or just use the suction hose." />
+        <text name="helpText_Eiersholt_115" text="With the suction hose you can pump liquids from one container into the other and simply lengthen it," />
+        <text name="helpText_Eiersholt_116" text="to bridge longer distances. Compatible suction points are marked with the 'manure system symbol'." />
+        <text name="helpText_Eiersholt_117" text="Pumping does not always happen at the same speed, as thick liquid manure or the distance also affect the pump performance." />
+	</texts>
+</l10n>

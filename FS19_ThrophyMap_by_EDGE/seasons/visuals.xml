@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<visuals>
+    <annotation>Copyright (c) Realismus Modding, 2019 edited by bgo1973</annotation>
+    <materials filename="seasons/seasonsMaterialHolder.i3d" memoryUsage="4.096.000">
+        <cache name="cache_material_holder" />
+        <spring>
+            <shape name="shrubLong9m_LOD"       childName="shrubLong9m_lod0"  to="hedges1"/>
+            <shape name="shrubLong9m_LOD"       childName="shrubLong9m_lod1"  to="hedgeslod"/>
+            <shape name="Mapszele:g0"           to="mapszelles1"/>
+            <shape name="Wand"                  to="wands1"/>
+            <shape name="bush01"                to="bushes_spring"/>
+            <shape name="bush02"                to="bushes_spring"/>
+            <shape name="bush03"                to="bushes_spring"/>
+            <shape name="bush04"                to="bushes_spring"/>
+            <shape name="bush05"                to="bushes_spring"/>
+            <foliage name="bush01"              to="bush01Spring"/>
+        </spring>
+        <summer>
+            <shape name="Mapszele:g0"           to="mapszellesu1"/>
+            <shape name="Wand"                  to="wandsu1"/>
+            <shape name="bush01"                to="bushes_summer"/>
+            <shape name="bush02"                to="bushes_summer"/>
+            <shape name="bush03"                to="bushes_summer"/>
+            <shape name="bush04"                to="bushes_summer"/>
+            <shape name="bush05"                to="bushes_summer"/>
+        </summer>
+        <autumn>
+            <shape name="shrubLong9m_LOD"       childName="shrubLong9m_lod0"  to="hedgea1"/>
+            <shape name="shrubLong9m_LOD"       childName="shrubLong9m_lod1"  to="hedgealod"/>
+            <shape name="Mapszele:g0"           to="mapszellea1"/>
+            <shape name="Wand"                  to="wanda1"/>
+            <shape name="bush01"                to="bushes_autumn"/>
+            <shape name="bush02"                to="bushes_autumn"/>
+            <shape name="bush03"                to="bushes_autumn"/>
+            <shape name="bush04"                to="bushes_autumn"/>
+            <shape name="bush05"                to="bushes_autumn"/>
+            <foliage name="bush01"              to="bush01Autumn"/>
+            <foliage name="decoFoliage"         to="decoFoliageAutumn"/>
+        </autumn>
+        <winter>
+            <shape name="shrubLong9m_LOD"       childName="shrubLong9m_lod0"  to="hedgew1"/>
+            <shape name="shrubLong9m_LOD"       childName="shrubLong9m_lod1"  to="hedgewlod"/>
+            <shape name="Mapszele:g0"           to="mapszellew1"/>
+            <shape name="Wand"                  to="wandw1"/>
+            <shape name="bush01"                to="bushes_winter"/>
+            <shape name="bush02"                to="bushes_winter"/>
+            <shape name="bush03"                to="bushes_winter"/>
+            <shape name="bush04"                to="bushes_winter"/>
+            <shape name="bush05"                to="bushes_winter"/>
+            <foliage name="bush01"              to="bush01Winter"/>
+            <foliage name="decoFoliage"         to="decoFoliageWinter"/>
+        </winter>
+    </materials>
+</visuals>

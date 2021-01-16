@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+<author>Edge Gaming / Castiga</author>
+<translationby>Castiga</translationby>
+	<texts>
+		<text name="POPPY" 								text="Poppy Seeds"/>
+		<text name="POPPY_FLOWER" 						text="Poppy Flower"/>
+		<text name="desc_poppy" 						text="Poppy Seeds is a Fruit, mostly used in making Bread."/>
+        <text name="action_toggleFillmark" 				text="Fillmark on/off"/>
+        <text name="tm_distillery" 						text="Distillery"/>
+        <text name="tm_Trashyard" 						text="Trashyard"/>
+        <text name="tm_minimarket" 						text="Mini Market"/>
+        <text name="tm_EDGE" 							text="EDGE Industries"/>
+        <text name="tm_Beach" 							text="Beach Property"/>
+        <text name="tm_mill" 							text="The Mill"/>
+        <text name="tm_Limagrain" 						text="LimaGrain"/>
+        <text name="tm_Lemonways" 						text="Lemonways"/>
+        <text name="tm_Oceanbeach" 						text="Ocean Beach Kitchen"/>
+			<!--Locations-->
+	    <text name="LUMBERYARD"    						text="Lumberyard"/>
+			<!--Missions-->
+		<text name="BOTTLE_DELIVERY" 					text="Bottle Delivery"/>
+		<text name="HARDWARE_DELIVERY" 					text="Hardware Delivery"/>
+		<text name="WATER_DELIVERY" 					text="Water Delivery"/>
+		<text name="FOOD_DELIVERY" 						text="Food Delivery"/>
+		<text name="SUGAR_MILL_DELIVERY" 				text="Sugar Mill Delivery"/>
+		<text name="MIX_DELIVERY" 						text="Moxed Goods Delivery"/>
+		<text name="CORPORATE_DELIVERY" 				text="Corporate Delivery"/>
+		<text name="SEEDFERTILIZER_DELIVERY" 			text="Seed & Fertilizer Delivery"/>
+		<text name="COMPUTER_DELIVERY" 					text="Computer Delivery"/>
+		<text name="BROKEN_COMPUTER_DELIVERY" 			text="Broken Computer Delivery"/>
+		<text name="BEER_DELIVERY" 						text="Beer Delivery"/>
+		<text name="BALE_DELIVERY" 						text="Bale Delivery"/>
+		<text name="MACHINERY_DELIVERY" 				text="Machinery Delivery"/>
+		<!-- Objects -->
+        <text name="shopItem_liquidManureStorage"          text="Stockage de lisier" />
+        <text name="shopItem_manureStorage"                text="Stockage du fumier" />
+        <text name="shopItem_buyingStation_compost"        text="Point de chargement du compost" />
+        <text name="shopItem_sellStation_compost"          text="Point de déchargement de compostage" />
+        <!-- Actions -->
+        <text name="action_openRolldoor"                   text="porte à rouleau ouverte" />
+        <text name="action_closeRolldoor"                  text="fermer la porte roulante" />
+        <text name="action_openBigdoor"                    text="porte ouverte" />
+        <text name="action_closeBigdoor"                   text="ferme la porte" />
+        <text name="action_lightOn"                        text="allumer la lumière" />
+        <text name="action_lightOut"                       text="éteindre la lumière" />
+        <text name="action_openWind"                       text="pare-brise ouvert" />
+        <text name="action_closeWind"                      text="fermer le pare-brise" />
+        <text name="action_machineOn"                      text="Allumez le système" />
+        <text name="action_machineOff"                     text="Éteignez le système" />
+        <text name="action_chglngf"                        text="Changer de langue" />
+        <text name="action_chglngb"                        text="Changer de langue" />
+        <text name="ui_vehicleReset"                       text="Le véhicule / appareil a été remis au concessionnaire." />
+        <!-- Filltypes -->
+        <text name="fillType_wetClover"                    text="Trèfle humide" />
+        <text name="fillType_clover"                       text="Trèfle" />
+        <text name="fillType_semiDryClover"                text="Trèfle à moitié sec" />
+        <text name="fillType_dryClover"                    text="Trèfle sèche" />
+        <text name="fillType_clover_fermented"             text="Ensilage de trèfle" />
+        <text name="fillType_clover_roundBale"             text="Trèfle" />
+        <text name="fillType_dryClover_roundBale"          text="Trèfle sèche" />
+        <text name="fillType_wetAlfalfa"                   text="Luzerne humide" />
+        <text name="fillType_alfalfa"                      text="Luzerne" />
+        <text name="fillType_semiDryAlfalfa"               text="Luzerne à moitié sec" />
+        <text name="fillType_dryAlfalfa"                   text="Luzerne sèche" />
+        <text name="fillType_alfalfa_fermented"            text="Ensilage de luzerne" />
+        <text name="fillType_alfalfa_roundBale"            text="Luzerne" />
+        <text name="fillType_dryAlfalfa_roundBale"         text="Luzerne sèche" />
+        <text name="fillType_rye"                          text="Seigle" />
+        <text name="fillType_millet"                       text="Millet" />
+        <text name="fillType_triticale"                    text="Triticale" />
+        <text name="fillType_compost"                      text="Compost" />
+        <text name="fillType_carrot"                       text="Carottes" />
+        <text name="fillType_onion"                        text="Oignons" />
+        <text name="fillType_field_grass"                  text="Champ gras" />
+        <text name="fillType_spelt"                        text="Épeautre" />
+        <text name="fillType_crop_windrow"                 text="Andain de grain" />
+        <text name="fillType_miscanthus"                   text="Miscanthus" />
+        <text name="fillType_pastureGrass"                 text="Herbe de pâturage" />
+        <text name="fillType_wetHorseGrass"                text="erbe de cheval humide" />
+        <text name="fillType_horseGrass"                   text="Herbe de cheval" />
+        <text name="fillType_semiDryHorseGrass"            text="Foin humide de cheval" />
+        <text name="fillType_dryHorseGrass"                text="Foin de cheval" />
+        <text name="fillType_horseGrass_fermented"         text="Ensilage de chevaux" />
+        <text name="fillType_wetGrass"                     text="Herbe fraîche" />
+        <text name="fillType_semiDryGrass"                 text="Herbe à moitié sec" />
+        <text name="fillType_grass_fermented"              text="nsilage de herbe" />
+        <text name="fillType_grass_roundBale"              text="Herbe" />
+        <text name="fillType_dryGrass_roundBale"           text="Foins" />
+        <text name="fillType_ccmraw"                       text="Grist de maïs (frais)" />
+        <text name="fillType_ccm"                          text="CCM" />
+        <!-- sellingStations -->
+        <text name="station_farmersMarket"                 text="Centre jardin" />
+        <text name="station_limeStation"                   text="Travaux de chaux" />
+        <text name="station_bga"                           text="Usine de biogaz" />
+        <text name="station_milk"                          text="Laitière" />
+        <text name="station_campsite"                      text="Camping" />
+        <text name="station_grainmill"                     text="Moulin à céréale" />
+        <text name="station_watermill"                     text="Moulin à eau" />
+        <text name="station_brewery"                       text="Brasserie" />
+        <text name="station_fodderShop"                    text="Magasin de fourrage" />
+        <text name="station_toom"                          text="TOOM Quincaillerie" />
+        <text name="station_RaiffeisenGrain"               text="Raiffeisen céréale" />
+        <text name="station_RaiffeisenBales"               text="Raiffeisen ballots" />
+        <text name="station_mcCain"                        text="McCain Patates" />
+        <text name="station_compost_unloading"             text="Point de déchargement de compostage" />
+        <text name="station_sugar"                         text="South Sugar" />
+        <text name="station_BioMassHeating"                text="Centrale thermique" />
+        <text name="station_woodchips"                     text="Scierie" />
+        <!--buyingStations-->
+        <text name="station_muehle"                        text="Moulin à céréale" />
+        <text name="station_gardencenter_fert"             text="Engrais de centre de jardinage" />
+        <text name="station_gardencenter_seeds"            text="Semence de centre de jardinage" />
+        <text name="station_Raiffeisen_fert"               text="Engrais de Raiffeisen" />
+        <text name="station_Raiffeisen_seeds"              text="Semence de Raiffeisen" />
+        <text name="station_feedStore"                     text="Magasin de fourrage" />
+        <text name="station_compost_loading"               text="Point de chargement de compostage" />
+        <!-- Hot Spots -->
+        <text name="hotSpot_farmersMarket"                 text="Centre de jardin" />
+        <text name="hotSpot_limeStation"                   text="Travaux de chaux" />
+        <text name="hotSpot_biogasPlant"                   text="Usine de biogaz" />
+        <text name="hotSpot_centerDepot"                   text="Dépôt central" />
+        <text name="hotSpot_slurryStorage"                 text="Stockage de lisier" />
+        <text name="hotSpot_campsite"                      text="Site de camp" />
+        <text name="hotSpot_grainmill"                     text="Moulin à céréale" />
+        <text name="hotSpot_watermill"                     text="Moulin à eau" />
+        <text name="hotSpot_dairy"                         text="Laitière" />
+        <text name="hotSpot_brewery"                       text="Brasserie" />
+        <text name="hotSpot_fodderShop"                    text="Magasin de fourrage" />
+        <text name="hotSpot_sawmill"                       text="Scierie" />
+        <text name="hotSpot_toom"                          text="Quincaillerie" />
+        <text name="hotSpot_animalShop"                    text="Marchand d'animaux" />
+        <text name="hotSpot_Raiffeisen"                    text="Raiffeisen" />
+        <text name="hotSpot_mcCain"                        text="McCain" />
+        <text name="hotSpot_supermarket"                   text="Supermarché" />
+        <text name="hotSpot_compost"                       text="Usine de compostage" />
+        <text name="hotSpot_sugar"                         text="Südzucker" />
+        <text name="hotSpot_BioMassHeating"                text="Centrale thermique" />
+        <!-- Mixer -->
+        <text name="station_forager"                       text="Fabrication de TMR" />
+        <text name="function_forager"                      text="Paille 20%+ Foins 50%+ Fourrage ensilé 30% = Fabrication de TMR" />
+        <text name="station_pigFeeder"                     text="Production d'aliments de porc" />
+        <text name="function_pigFeeder"                    text="Maïs 50%+ Cultures racines 25%+ Graines oléagineuses 20%+ Céréales 5% = Production d'aliments de porc" />
+        <!-- Mods -->
+        <text name="function_multiTank"                    text="Cette remorque citerne peut être utilisée pour transporter tous types de liquides. Les véhicules, équipements et entrepôts peuvent être remplis." />
+        <text name="function_multiPalletPacker"            text="Avec cette machine, les pommes de terre, les betteraves à sucre, les oignons ou les carottes sont emballés dans des palettes pour la vente ou chargés sur des bandes transporteuses." />
+        <text name="function_multiWrapper"                 text="L'enrubanneuse enveloppe les balles de toutes les herbes dans un feuille afin qu'elles puissent fermenter en ensilage." />
+        <text name="function_multiBaler"                   text="Cette presse presse la paille et toute l'herbe et leur foin en balles." />
+        <text name="function_multiStacker"                 text="e ramasseur de balles charge tous types de balles rondes et facilite leur transport." />
+        <text name="configuration_carrot"                  text="pour les carottes" />
+        <text name="configuration_onion"                   text="pour les oignons" />
+        <text name="name_HR_12_Carrot"                     text="HR 12 pour les carottes" />
+        <text name="name_HR_12_Onion"                      text="HR 12 pour les oignons" />
+        <text name="name_KS_75-4_Carrot"                   text="KS 75-4 pour les carottes" />
+        <text name="name_KS_75-4_Onion"                    text="KS 75-4 pour les oignons" />
+        <text name="name_SE_260_Carrot"                    text="SE 260 pour les carottes" />
+        <text name="name_SE_260_Onion"                     text="SE 260 pour les oignons" />
+        <text name="function_haulmTopperCarrot"            text="Ce haut de forme de foin retire le foin avant que les carottes puissent être récoltées." />
+        <text name="function_haulmTopperOnion"             text="Ce haut de forme de foin enlève le foin avant que les oignons puissent être récoltés." />
+        <text name="function_harvestingCarrotWithoutPreparer" text="Cette moissonneuse arrache les carottes du sol. Cette machine ne peut être utilisée qu'après avoir coupé le foin." />
+        <text name="function_harvestingOnionWithoutPreparer"  text="Cette récolteuse extrait les oignons du sol. Cette machine ne peut être utilisée qu'après avoir coupé le foin." />
+        <text name="function_mowerConditioner"             text="Cette tondeuse a également installé un conditionneur. Cela signifie que la tonte est immédiatement séchée." />
+        <!--LandScapePaintText-->
+        <text name="groundtype_dirt"                         text="saleté" />
+        <text name="groundtype_asphalt"                      text="asphalte" />
+        <text name="groundtype_gravel"                       text="gravier" />
+        <text name="groundtype_grass"                        text="herbe + herbe St. 2" />
+        <text name="groundtype_grass_town"                   text="pelouse + herbe St. 2" />
+        <text name="groundtype_grass_rough"                  text="herbe rugueuse + herbe St. 2" />
+        <text name="groundtype_bush1"                        text="herbe + buisson st. 1" />
+        <text name="groundtype_bush2"                        text="herbe + buisson st. 2" />
+        <text name="groundtype_bush3"                        text="herbe + buisson st. 3" />
+        <text name="groundtype_bush4"                        text="herbe + buisson st. 4" />
+        <text name="groundtype_deco1"                        text="herbe + déco 1" />
+        <text name="groundtype_deco2"                        text="herbe + déco 2" />
+        <text name="groundtype_deco3"                        text="herbe + déco 3" />
+        <text name="groundtype_deco4"                        text="herbe + déco 4" />
+        <text name="groundtype_deco5"                        text="herbe + déco 5" />
+        <text name="groundtype_deco6"                        text="herbe + déco 6" />
+        <text name="groundtype_deco7"                        text="herbe + déco 7" />
+        <text name="groundtype_deco8"                        text="herbe + déco 8" />
+        <text name="groundtype_deco9"                        text="herbe + déco 9" />
+        <text name="groundtype_deco10"                       text="herbe + déco 10" />
+        <text name="groundtype_deco11"                       text="herbe + déco 11" />
+        <text name="groundtype_sand"                         text="sable" />
+        <text name="groundtype_animalMud"                    text="boue animale" />
+        <text name="groundtype_vehicleMud"                   text="boue de véhicule" />
+        <text name="groundtype_concrete"                     text="béton" />
+        <text name="groundtype_forestLeaf"                   text="feuillage du sol forestier" />
+        <text name="groundtype_forestNeedle"                 text="aiguille de sol forestier" />
+        <text name="groundtype_rock"                         text="roche" />
+        <text name="groundtype_rock_dark"                    text="roche sombre" />
+        <text name="groundtype_platedamaged"                 text="plaque endommagée" />
+        <text name="groundtype_sandrough"                    text="sable rugueux" />
+        <text name="groundtype_beachsand"                    text="plage de sable" />
+        <text name="groundtype_cobblestone"                  text="pavé" />
+        <text name="groundtype_roughMud"                     text="oue rugueuse" />
+        <text name="groundtype_puddle"                       text="flaque" />
+        <text name="groundtype_vehmudpuddle"                 text="flaque de boue" />
+        <!--SeasonsMission1-->
+        <text name="loc01"                                   text="Usine de biogaz" />
+        <text name="snow01"                                  text="L'usine de biogaz est enneigée. Il n'est pas possible pour nos clients de livrer leurs marchandises en toute sécurité. Veuillez effacer toute la zone." />
+        <!--SeasonsMission2-->
+        <text name="loc02"                                   text="Pompiers" />
+        <text name="snow02"                                  text="Le service d'incendie ne peut pas sortir. La neige bloque la caserne des pompiers. S'il vous plaît effacer toute la zone" />
+        <!--SeasonsMission3-->
+        <text name="loc03"                                   text="Centre jardin" />
+        <text name="snow03"                                  text="Les gens ne peuvent pas atteindre le centre de jardinage. Le parking est enneigé. S'il vous plaît effacer la neige pour nous." />
+        <!--SeasonsMission4-->
+        <text name="loc04"                                   text="Travaux de chaux" />
+        <text name="snow04"                                  text="Les clients ne peuvent pas atteindre la travaux de chaux. S'il vous plaît effacer la neige." />
+        <!--SeasonsMission5-->
+        <text name="loc05"                                   text="Élevage de moutons" />
+        <text name="snow05"                                  text="La cour de ma ferme de moutons est pleine de neige. Je ne viens pas chez mes animaux. S'il vous plaît effacer la neige pour moi." />
+        <!--SeasonsMission6-->
+        <text name="loc06"                                   text="Écurie de chevaux" />
+        <text name="snow06"                                  text="À l'écurie, les voitures s'enlisent dans la neige. Pouvez-vous libérer les rues de la neige?" />
+        <!--SeasonsMission7-->
+        <text name="loc07"                                   text="Moulin à eau" />
+        <text name="snow07"                                  text="La route menant au moulin à eau est bloquée par la neige. Pouvez-vous s'il vous plaît l'expulser?" />
+        <!--SeasonsMission8-->
+        <text name="loc08"                                   text="Site de camp" />
+        <text name="snow08"                                  text="Lieferungen können den Campingplatz wegen Schnee nicht erreichen. Bitte mache einen Weg frei." />
+        <!--SeasonsMission9-->
+        <text name="loc09"                                   text="Kuhstall" />
+        <text name="snow09"                                  text="Je ne peux pas atteindre mes vaches. Pouvez-vous s'il vous plaît dégager un chemin vers l'enclos Cow?" />
+        <!--SeasonsMission10-->
+        <text name="loc10"                                   text="Porcherie" />
+        <text name="snow10"                                  text="Je ne viens pas à mes cochons. Pouvez-vous s'il vous plaît effacer un chemin vers la porcherie?" />
+        <!--SeasonsMission11-->
+        <text name="loc11"                                   text="Usine de compostage" />
+        <text name="snow11"                                  text="Les routes de l'usine de compostage sont glissantes à cause de la neige. Pouvez-vous s'il vous plaît l'expulser?" />
+        <!--SeasonsMission12-->
+        <text name="loc12"                                   text="Supermarché" />
+        <text name="snow12"                                  text="Le parking au supermarché est enneigé. S'il vous plaît effacer." />
+        <!--SeasonsMission13-->
+        <text name="loc13"                                   text="Laitière" />
+        <text name="snow13"                                  text="Le camion de lait ne peut pas décharger le lait en raison de la neige. S'il vous plaît effacer la place." />
+        <!--SeasonsMission14-->
+        <text name="loc14"                                   text="Boucher" />
+        <text name="snow14"                                  text="Les clients ne peuvent pas atteindre le boucher. S'il vous plaît effacer la neige." />
+        <!--SeasonsMission15-->
+        <text name="loc15"                                   text="Marchand d'animaux" />
+        <text name="snow15"                                  text="Les transports de bétail restent bloqués dans la neige chez le marchand d’animaux domestiques. Veuillez vous frayer un chemin." />
+        <!--SeasonsMission16-->
+        <text name="loc16"                                   text="Station-service" />
+        <text name="snow16"                                  text="Il est presque impossible pour les clients de faire le plein. S'il vous plaît libérer la propriété de la neige." />
+        <!--SeasonsMission17-->
+        <text name="loc17"                                   text="Revendeurs de machines agricoles" />
+        <text name="snow17"                                  text="Le parking du concessionnaire automobile est enneigé. S'il vous plaît effacer." />
+        <!--SeasonsMission18-->
+        <text name="loc18"                                   text="TOOM quincaillerie" />
+        <text name="snow18"                                  text="La quincaillerie est enneigée. S'il vous plaît effacer la zone." />
+        <!--helpLine-->
+        <text name="helpCategory_Eiersholt_0"                text="Introduction" />
+        <text name="helpCategory_Eiersholt_1"                text="aussi" />
+        <text name="helpCategory_Eiersholt_2"                text="en outre" />
+        <text name="helpCategory_Eiersholt_inclMods"         text="mods inclus" />
+        <text name="helpCategory_Eiersholt_common"           text="Général" />
+        <text name="helpCategory_Eiersholt_additionalFruits" text="Fruits supplémentaires de la carte" />
+        <text name="helpCategory_Eiersholt_places"           text="Points d'achat et de vente 1" />
+        <text name="helpCategory_Eiersholt_places1"          text="Points d'achat et de vente 2" />
+        <text name="helpCategory_Eiersholt_animals"          text="Animaux" />
+        <text name="helpCategory_Eiersholt_chicken"          text="Poulet" />
+        <text name="helpCategory_Eiersholt_cow"              text="Vaches" />
+        <text name="helpCategory_Eiersholt_pig"              text="Cochons" />
+        <text name="helpCategory_Eiersholt_horse"            text="Chevaux" />
+        <text name="helpCategory_Eiersholt_sheep"            text="Mouton" />
+        <text name="helpCategory_Eiersholt_store"            text="Entrepôt externe et atelier" />
+        <text name="helpCategory_Eiersholt_centerDepot"      text="Dépôt central" />
+        <text name="helpCategory_Eiersholt_slurry"           text="Stockage de lisier" />
+        <text name="helpCategory_Eiersholt_workshop"         text="Atelier à la ferme et station-service" />
+        <text name="helpCategory_Eiersholt_mods"             text="Mods recommandés" />
+        <text name="helpCategory_Eiersholt_mod1"             text="MaizePlus et extensions" />
+        <text name="helpCategory_Eiersholt_mod2"             text="Seasons 19" />
+        <text name="helpCategory_Eiersholt_mod3"             text="Addon Récolte De Paille" />
+        <text name="helpCategory_Eiersholt_mod4"             text="Animal Pen Extension" />
+        <text name="helpCategory_Eiersholt_mod5"             text="Système de collecte du lisier" />
+
+        <text name="helpText_Eiersholt_empty"                text=" " />
+
+        <text name="helpText_Eiersholt_0" text="Les fonctions de base du jeu doivent être connues du joueur, car elles ne seront pas abordées plus avant ici." />
+        <text name="helpText_Eiersholt_1" text="Cette carte est entièrement jouable sans aucun mod." />
+        <text name="helpText_Eiersholt_2" text="Cependant, pour pouvoir utiliser toutes les fonctions comme prévu, certains mods sont nécessaires." />
+        <text name="helpText_Eiersholt_3" text="Beaucoup d'entre eux sont déjà utilisés par la plupart des joueurs, car un FS ne serait plus concevable sans eux." />
+        <text name="helpText_Eiersholt_4" text="Lequel ces sont en détail est brièvement expliqué dans le chapitre «Mods recommandés». La manière dont ils fonctionnent en détail n'est pas discutée plus avant ici." />
+
+        <text name="helpText_Eiersholt_f1" text="Mais tout d'abord quelques informations sur la ferme principale." />
+        <text name="helpText_Eiersholt_f2" text="Au début du jeu, vous disposez déjà de divers véhicules, entrepôts et silos." />
+        <text name="helpText_Eiersholt_f3" text="Les silos sont déjà remplis d'une petite quantité de fruits, d'engrais, de graines et de chaux pour faciliter le démarrage." />
+        <text name="helpText_Eiersholt_f4" text="Vous pouvez également appeler votre propre poulailler. Vous avez également quelques champs à gérer. Pour remplir les silos pour les semences, les engrais et la chaux, les volets doivent être ouverts." />
+        <text name="helpText_Eiersholt_f5" text="Vous possédez suffisamment d'équipement et de terrain pour démarrer, mais il est recommandé de passer à un équipement plus efficace afin de pouvoir continuer à développer la ferme." />
+
+        <text name="helpText_Eiersholt_f6" text="Il y a aussi un réservoir dans la cour qui est gentiment rempli par le marché de Raiffeisen. Ici, vous pouvez acheter directement des engrais liquides et des herbicides." />
+
+        <text name="helpText_Eiersholt_5" text="La carte contient quelques mods adaptés, notamment pour les extensions de MaizePlus" />
+        <text name="helpText_Eiersholt_6" text="mais sont également nécessaires pour le fruit supplémentaire." />
+        <text name="helpText_Eiersholt_7" text="Ce sont en détail:" />
+        <text name="helpText_Eiersholt_8" text="- Grimme KS75 - Un haulm topper disponible pour les carottes et les oignons." />
+        <text name="helpText_Eiersholt_9" text="- Grimme SE260 - Une récolteuse, également disponible pour les carottes et les oignons." />
+        <text name="helpText_Eiersholt_10" text="- Grimme RH2460 - Un palettiseur pour carottes, oignons, pommes de terre et betteraves à sucre." />
+        <text name="helpText_Eiersholt_11" text="- Holmer TerraDos T4 40 - récolteuse pour carottes, oignons, pommes de terre et betteraves à sucre." />
+        <text name="helpText_Eiersholt_12" text="- Holmer HR12 - Un accessoire pour les TerraDos, pour les carottes et aussi pour les oignons disponible." />
+        <text name="helpText_Eiersholt_13" text="- Kuhn FBP3135 - Une combinaison de mise en balles / d'enrubannage pour toute l'herbe et la paille avec des couleurs de film supplémentaires." />
+        <text name="helpText_Eiersholt_14" text="- Kuhn SW4014 - Enrubanneuse pour emballer toutes les balles avec des couleurs de film supplémentaires." />
+        <text name="helpText_Eiersholt_15" text="- NH Discbine313, Pöttinger NovaCat301 et X8 et Krone BigM450 - tondeuses avec conditionneur supplémentaire." />
+        <text name="helpText_Eiersholt_16" text="		Ceux-ci vous permettent de sauter une étape de séchage directement pendant la tonte." />
+        <text name="helpText_Eiersholt_17" text="- Ursus T127 - Un chariot supplémentaire pour ramasser les balles." />
+        <text name="helpText_Eiersholt_18" text="- Ursus Z586 - Une autre enrubanneuse, également avec des couleurs de film supplémentaires." />
+        <text name="helpText_Eiersholt_19" text="- Lizard MKS8 et MKS32 - Ces camions-citernes peuvent transporter tous les liquides. Les véhicules, équipements et entrepôts peuvent être remplis." />
+        <text name="helpText_Eiersholt_20" text="		Différentes couleurs peuvent également être configurées." />
+
+        <text name="helpText_Eiersholt_21" text="En plus de tous les fruits standards, les fruits suivants sont disponibles:" />
+        <text name="helpText_Eiersholt_22" text=" " />
+        <text name="helpText_Eiersholt_23" text="- Grains: seigle, millet, épeautre et triticale" />
+        <text name="helpText_Eiersholt_24" text="- Fruits de la terre: carottes et oignons" />
+        <text name="helpText_Eiersholt_25" text="- Graminées:" />
+        <text name="helpText_Eiersholt_26" text="		Luzerne - La luzerne fraîchement coupée peut être mise en balles en balles de luzerne, ou mise en balles et emballée et transformée en ensilage, ou elle peut être enrobée et transformée en foin de luzerne." />
+        <text name="helpText_Eiersholt_27" text="		Trèfle - Le trèfle frais coupé peut être mis en balles de trèfle, ou mis en balles et emballé et transformé en ensilage, ou il peut être enrobé et transformé en foin de trèfle." />
+        <text name="helpText_Eiersholt_28" text="		Herbe arable - Est une herbe haute qui peut être coupée et transformée en herbe normale et en foin, ou peut être récoltée à l'aide d'une moissonneuse-batteuse." />
+        <text name="helpText_Eiersholt_29" text="		Herbe de pâturage - L'herbe de pâturage fonctionne comme l'herbe normale. Il peut être coupé et transformé en foin ou transformé en ensilage dans le silo de trémie." />
+        <text name="helpText_Eiersholt_30" text="		Herbe à cheval - Herbe à cheval peut être coupé et transformé en foin de cheval. Herbe à cheval peut également être transformé en ensilage dans le silo de trémie. Enrouler une balle de herbe à cheval semi-sec (enrobé deux fois) vous donnera un ensilage de cheval." />
+        <text name="helpText_Eiersholt_31" text="		Miscanthus - Le miscanthus peut être coupé à l'aide d'une ensileuse." />
+        <text name="helpText_Eiersholt_32" text="Le compost peut également être utilisé pour la fertilisation." />
+
+        <text name="helpText_Eiersholt_33" text="Centre de jardinage - en plus de a.o. Des céréales, de la laine, des œufs, etc. peuvent également être vendus ici, ainsi que du fumier, des engrais, des herbicides et des semences." />
+        <text name="helpText_Eiersholt_34" text="Laitière - En plus du lait, bien sûr, l'épeautre, le soja et l'avoine peuvent également être livrés ici." />
+        <text name="helpText_Eiersholt_35" text="Camping - À la recherche de produits de qualité constante, les campeurs achètent toujours du lait, des œufs, des pommes de terre, des carottes et des oignons." />
+        <text name="helpText_Eiersholt_36" text="Moulin à grains - Tous les types de céréales peuvent être vendus ici." />
+        <text name="helpText_Eiersholt_37" text="Moulin à eau - Comme pour le moulin à grains, tous les types de céréales sont acceptés ici." />
+        <text name="helpText_Eiersholt_38" text="Brasserie - le blé, l'orge, l'épeautre, l'avoine et même la canne à sucre sont fermentés ici pour faire quelque chose de buvable." />
+        <text name="helpText_Eiersholt_39" text="Magasin d'alimentation - En plus de divers ensilages, presque tout ce qui est nécessaire à la production d'aliments pour animaux est commercialisé ici." />
+        <text name="helpText_Eiersholt_40" text="		Aussi sous forme de balle, bien sûr." />
+        <text name="helpText_Eiersholt_41" text="TOOM - En plus de la laine et des copeaux de bois, la quincaillerie achète également du miscanthus et de l'herbe arable." />
+        <text name="helpText_Eiersholt_42" text="Raiffeisen - Dans ce point de vente, vous pouvez vraiment vendre tout ce que la carte peut offrir. Aussi sous forme de balle." />
+        <text name="helpText_Eiersholt_43" text="		Des engrais, des herbicides et des semences peuvent également être achetés." />
+        <text name="helpText_Eiersholt_44" text="McCain - En plus des pommes de terre, les oignons peuvent également être vendus ici." />
+        <text name="helpText_Eiersholt_45" text="Südzucker - En plus des betteraves à sucre, la canne à sucre peut également être vendue ici." />
+        <text name="helpText_Eiersholt_46" text="Scierie - Bien sûr, les troncs d'arbres sont acceptés ici. Mais aussi de l'herbe d'éléphant et des copeaux de bois." />
+        <text name="helpText_Eiersholt_47" text="		Ce dernier peut également être acheté ici." />
+
+        <text name="helpText_Eiersholt_48" text="Usine de compostage - En plus d'acheter du compost, il est également possible de le vendre et à nouveau avec divers autres fruits." />
+        <text name="helpText_Eiersholt_49" text="Usine de biogaz - Bien sûr, le matériau haché et l'herbe peuvent être fermentés ici en ensilage, qui peut ensuite être introduit de manière rentable dans l'usine de biogaz." />
+        <text name="helpText_Eiersholt_50" text="		Tout digestat peut bien sûr également être chargé." />
+        <text name="helpText_Eiersholt_51" text="Centrale thermique - énergie de chauffage à partir de la biomasse, de sorte que la paille, les copeaux de bois et l'herbe à éléphant peuvent être vendus ici." />
+        <text name="helpText_Eiersholt_52" text="Travaux de chaux - Comme son nom l'indique, la chaux peut être achetée ici." />
+        <text name="helpText_Eiersholt_53" text="Supermarché - Le supermarché achète tous les fruits de la terre, les œufs, le lait ainsi que les moutons et le coton." />
+        <text name="helpText_Eiersholt_54" text="Marchand d'animaux - Comme son nom l'indique, les animaux peuvent être achetés ici et amenés vous-même aux écuries. Bien sûr, le concessionnaire achète également des animaux." />
+
+        <text name="helpText_Eiersholt_55" text="Le poulailler appartient au joueur depuis le début." />
+        <text name="helpText_Eiersholt_56" text="Rien n'a changé en termes de fonction réelle." />
+        <text name="helpText_Eiersholt_57" text="Cependant, la zone de déchargement, où en plus du blé, du triticale, du seigle, du soja, du maïs, de l'orge et du millet," />
+        <text name="helpText_Eiersholt_58" text="des betteraves à sucre et des carottes peuvent être livrées, doit être nettoyée de temps en temps." />
+
+        <text name="helpText_Eiersholt_59" text="Même si l'étable est située dans la cour principale, elle n'est pas en la possession du joueur au début de la partie." />
+        <text name="helpText_Eiersholt_60" text="Afin de pouvoir l'utiliser et quelques bâtiments associés, la zone doit d'abord être achetée." />
+        <text name="helpText_Eiersholt_61" text="Une usine de mélange d'aliments fait également partie de la zone." />
+        <text name="helpText_Eiersholt_62" text="Si vous mettez de la paille (20%), de l'ensilage (30%) et du foin (50%), vous obtenez le TMR." />
+        <text name="helpText_Eiersholt_63" text="La paille, ainsi que l'herbe, le foin et l'ensilage peuvent également être nourris en balles dans l'étable." />
+        <text name="helpText_Eiersholt_64" text="Bien sûr, les vaches jonchent aussi un peu la grange, il faut donc la débarrasser de temps en temps." />
+
+        <text name="helpText_Eiersholt_65" text="La porcherie n'appartient pas non plus au joueur au début de la partie." />
+        <text name="helpText_Eiersholt_66" text="Une fois que vous l'avez acquis, vous avez également accès au hall voisin, dans lequel par ex. Les fruits peuvent être stockés." />
+        <text name="helpText_Eiersholt_67" text="Une usine de mélange d'aliments pour porcs est également acquise ici." />
+        <text name="helpText_Eiersholt_68" text="Le maïs (50%), le blé, l'orge, le triticale ou le seigle (25%), le soja, le colza ou le tournesol (20%)" />
+        <text name="helpText_Eiersholt_69" text="et les pommes de terre, la betterave sucrière ou les carottes (5%) doivent être ajoutés." />
+        <text name="helpText_Eiersholt_70" text="Dans le cas des porcs également, la paille peut être déposée en balles directement dans l'étable." />
+        <text name="helpText_Eiersholt_71" text="La porcherie doit être nettoyée de temps en temps." />
+
+        <text name="helpText_Eiersholt_72" text="Afin de pouvoir élever et garder des chevaux, la superficie concernée doit être achetée." />
+        <text name="helpText_Eiersholt_73" text="En plus de l'avoine, les chevaux ont besoin d'herbe ou d'ensilage de chevaux ainsi que de foin et de carottes." />
+        <text name="helpText_Eiersholt_74" text="L'herbe, la paille, le foin et l'ensilage peuvent également être déposés en balles." />
+        <text name="helpText_Eiersholt_75" text="Si les chevaux sont bien soignés, ils produisent du fumier. L'écurie elle-même n'a pas à être détruite ici." />
+        <text name="helpText_Eiersholt_76" text="Nos aides assidus s'occupent de cela, pour ainsi dire." />
+
+        <text name="helpText_Eiersholt_77" text="Si vous décidez de commencer à produire de la laine, la ferme ovine doit également être achetée." />
+        <text name="helpText_Eiersholt_78" text="Les moutons ne produisent pas de fumier et ne doivent pas non plus être vidés ici. Seul le lieu d'alimentation doit être maintenu propre." />
+        <text name="helpText_Eiersholt_79" text="C'est là que l'ensilage, le foin, l'herbe, les betteraves à sucre et les carottes peuvent être renversés ou déposés en balles." />
+        <text name="helpText_Eiersholt_80" text="Si les animaux sont correctement soignés, rien ne s'oppose à la production de laine." />
+
+        <text name="helpText_Eiersholt_81" text="À l'exception du coton, tous les fruits peuvent être stockés dans le Centre Dépôt." />
+        <text name="helpText_Eiersholt_82" text="Dans les salles de toit rondes situées au centre, il y aurait des copeaux de bois, des betteraves à sucre et des pommes de terre." />
+        <text name="helpText_Eiersholt_83" text="La canne à sucre, les carottes et les oignons peuvent être stockés à l'avant du bâtiment en face des halls au toit rond." />
+        <text name="helpText_Eiersholt_84" text="La grange à gauche accepte la paille et toutes sortes d'herbe et de foin." />
+        <text name="helpText_Eiersholt_85" text="Le blé, l'orge, l'avoine et le seigle peuvent être stockés dans les grands bâtiments qui suivent." />
+        <text name="helpText_Eiersholt_86" text="Dans le complexe de bâtiments sur le côté gauche de la zone, le colza, le maïs, le tournesol," />
+        <text name="helpText_Eiersholt_87" text="le soja, le millet, le triticale et l'herbe des champs sont stockés." />
+        <text name="helpText_Eiersholt_88" text="Enfin, il y a une zone de stockage du fumier dans le coin supérieur gauche, où le compost peut également être stocké." />
+
+        <text name="helpText_Eiersholt_89" text="Puisqu'il n'y a pas assez d'espace sur le site du Dépôt Centre, l'installation de stockage de lisier a dû être située à l'extérieur." />
+        <text name="helpText_Eiersholt_90" text="En plus du lisier, le digestat peut également être stocké temporairement ici." />
+        <text name="helpText_Eiersholt_PS" text="Les zones du dépôt central et de l'installation de stockage de lisier ne peuvent pas être achetées et sont disponibles à tout moment pour tous les joueurs." />
+
+        <text name="helpText_Eiersholt_91" text="Il y a aussi un petit atelier avec une station-service attenante sur le terrain de la cour principale." />
+        <text name="helpText_Eiersholt_92" text="Cette zone doit également être achetée pour pouvoir l'utiliser. La station service en est exclue." />
+        <text name="helpText_Eiersholt_93" text="Cependant, vous devez le remplir vous-même." />
+
+        <text name="helpText_Eiersholt_94" text="MaizePlus est une expansion mondiale qui donne au joueur la possibilité de produire du maïs et de l'herbe ensilage en balles rondes," />
+        <text name="helpText_Eiersholt_95" text="ainsi que d'utiliser à la fois des ensilages dans le silo et pour l'alimentation." />
+        <text name="helpText_Eiersholt_96" text="De plus, vous pouvez également utiliser le fichier d'extension (MaizePlus_ccmExtension) pour produire de le grist de maïs et du CCM." />
+        <text name="helpText_Eiersholt_97" text="The Forage Extension révise complètement le système d'alimentation de la LS. D'une part, la répartition des différents" />
+        <text name="helpText_Eiersholt_98" text="ensilages par MaisPlus est prise en compte lors de l'alimentation, d'autre part, l'alimentation est généralement repensée" />
+        <text name="helpText_Eiersholt_99" text="pour qu'elle devienne un peu plus intéressante et peut-être aussi plus réaliste." />
+
+        <text name="helpText_Eiersholt_100" text="Le Seasons Mod change la façon de jouer de base à Farming Simulator en introduisant les saisons et en adaptant" />
+        <text name="helpText_Eiersholt_101" text="tous les aspects du gameplay, tels que la météo, la croissance, l'économie, l'entretien des véhicules et des animaux." />
+
+        <text name="helpText_Eiersholt_102" text="Développez votre activité agricole avec la granulation de matériaux de paille et augmentez la productivité avec" />
+        <text name="helpText_Eiersholt_103" text="les puissantes machines de KRONE ainsi que de Bressel et Lade." />
+
+        <text name="helpText_Eiersholt_104" text="Ce script global étend les stalles d'animaux standard et les stalles d'animaux mod pris en charge par les fonctions suivantes:" />
+        <text name="helpText_Eiersholt_105"  text="- Addon de l'eau - Pour un petit prix d'achat, votre plombier local construira une conduite d'eau avec laquelle vous pourrez facilement" />
+        <text name="helpText_Eiersholt_106" text="		assurer l'approvisionnement en eau de vos animaux." />
+        <text name="helpText_Eiersholt_107" text="- Addon de lait - Êtes-vous trop occupé pour livrer vous-même votre lait de vache au concessionnaire? Pour une somme modique," />
+        <text name="helpText_Eiersholt_108" text="		vous pouvez demander à un entrepreneur local de le faire pour vous au meilleur tarif disponible. Espérons simplement qu'aucun" />
+        <text name="helpText_Eiersholt_109" text="		incident n'empêche la vente de se produire quand ils le souhaitent." />
+        <text name="helpText_Eiersholt_110" text="- Addon de poulet - Après des recherches approfondies, les agriculteurs locaux ont décidé qu'ils devraient également donner de l'eau" />
+        <text name="helpText_Eiersholt_111" text="		à leurs poulets, ce n'est que juste. Vos poulaillers ont maintenant un abreuvoir." />
+
+        <text name="helpText_Eiersholt_112" text="Le système de fumier change toute l'expérience de jeu dans la manipulation du fumier. Découvrez ce que signifie pomper le fumier en tant que véritable agriculteur." />
+        <text name="helpText_Eiersholt_113" text="Utilisez les bras de remplissage pour pomper à partir de conteneurs ouverts tels que des conteneurs en bordure de champ, des bassins à lisier et des bassins d'eau." />
+        <text name="helpText_Eiersholt_114" text="Utilisez un bras de remplissage spécial pour aspirer depuis la station d'accueil ou utilisez simplement le tuyau d'aspiration." />
+        <text name="helpText_Eiersholt_115" text="Avec le tuyau d'aspiration, vous pouvez pomper des liquides d'un récipient dans l'autre et simplement l'allonger" />
+        <text name="helpText_Eiersholt_116" text="pour couvrir de plus longues distances. Les points d'aspiration compatibles sont marqués du 'symbole du système de lisier'." />
+        <text name="helpText_Eiersholt_117" text="Le pompage ne se produit pas toujours à la même vitesse, car la boue épaisse ou le retrait affectera également les performances de la pompe." />
+	</texts>
+</l10n>
