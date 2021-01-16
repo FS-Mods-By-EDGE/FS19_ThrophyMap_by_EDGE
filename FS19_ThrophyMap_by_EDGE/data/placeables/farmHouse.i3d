@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<i3D name="farmHouse.blend" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+  <Asset>
+    <Export program="GIANTS Editor 64bit" version="8.1.0"/>
+  </Asset>
+
+  <Files>
+  </Files>
+
+
+  <Materials>
+    <Material name="default" materialId="4" diffuseColor="0.494118 0.494118 0.494118 1">
+    </Material>
+  </Materials>
+
+
+  <Shapes externalShapesFile="farmHouse.i3d.shapes">
+  </Shapes>
+
+
+  <Dynamics>
+  </Dynamics>
+
+  <Scene>
+    <TransformGroup name="farmHouse" nodeId="7">
+      <Camera name="sleepCam" translation="-25.2578 14.955 29.1016" rotation="-16.7275 -37.6558 -3.87554e-07" nodeId="8" fov="60" nearClip="0.1" farClip="10000" orthographicHeight="1"/>
+      <TransformGroup name="spawnPoint" translation="-3.68816 4.03055 5.4284" nodeId="9"/>
+      <Shape shapeId="1" name="sleepTrigger" translation="-5.84476 2.03547 2.62651" static="true" trigger="true" collisionMask="1048576" nodeId="10" materialIds="4" nonRenderable="true"/>
+    </TransformGroup>
+  </Scene>
+
+</i3D>
